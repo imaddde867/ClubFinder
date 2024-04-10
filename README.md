@@ -74,11 +74,3 @@ Welcome to ClubFinder, your go-to platform for discovering exciting and tailored
 
 6. **Leave Reviews:**
    - Share your experiences by leaving reviews for the clubs your child has attended.
-
-## 🤝 Contributing
-
-We welcome contributions from the community. To contribute to ClubFinder, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE.md). Feel free to fork and modify the code for your own use!
