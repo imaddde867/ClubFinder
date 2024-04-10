@@ -1,0 +1,23 @@
+<!-- new_review.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Review</title>
+</head>
+
+<body>
+  <h1>New Review - {{ club.club_name }}</h1>
+
+  <!-- 显示评论表单 -->
+  <form action="{% url 'hobby_clubs:new_review' unique_identifier=club.unique_identifier %}" method="post">
+    {% csrf_token %}
+    {{ review_form.as_p }}
+    <button type="submit">Submit Review</button>
+  </form>
+</body>
+
+</html>

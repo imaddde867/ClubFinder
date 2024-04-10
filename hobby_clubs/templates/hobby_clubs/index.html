@@ -1,0 +1,155 @@
+{% extends 'hobby_clubs/base.html' %}
+
+{% block content %}
+{% load static %}
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <link rel="stylesheet" href="{% static 'homepage.css' %}">
+</head>
+
+<body>
+
+  <header class="header">
+    <img src="{% static 'images/logo.jpg' %}" alt="Logo" class="logo">
+    <nav>
+      <ul class="navigation">
+        <li><a href="{% url 'hobby_clubs:index' %}">Home</a></li>
+        <li><a href="{% url 'hobby_clubs:all_clubs' %}">Clubs</a></li>
+        {% if user.is_authenticated %}
+        <li class="nav-item">Hello, {{ user.username }}.
+          <form action="{% url 'user_accounts:logout' %}" method="post" style="display: inline;">
+            {% csrf_token %}
+            <input type="submit" value="Log out"
+              style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: none;"
+              class="nav-item">
+          </form>
+        </li>
+        {% else %}
+        <li><a href="{% url 'user_accounts:register' %}" class="nav-item">Register</a></li>
+        <li><a href="{% url 'user_accounts:login' %}" class="nav-item">Log in</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+  </header>
+
+  <div class="slogan">
+    <h1>Find the nearest kids' clubs in Turku!</h1>
+  </div>
+
+  <div class="main-image">
+    <img src="{% static 'images/homepage.jpg' %}" alt="Main Image">
+  </div>
+
+  <div class="map-image">
+    <img src="{% static 'images/map.jpg' %}" alt="Map Image">
+
+    <div class="search-info">
+      <h3>Let's explore your child's interests!</h3>
+
+      <form action="{% url 'hobby_clubs:search_clubs' %}" method="GET">
+        <div class="form-group">
+          <label for="postcode">Post Code: </label>
+          <select id="postcode" name="postcode">
+
+            <option selected="selected">Select Options</option>
+
+            <option>20100</option>
+            <option>20210</option>
+            <option>20300</option>
+            <option>20320</option>
+            <option>20360</option>
+            <option>20520</option>
+            <option>20540</option>
+            <option>20700</option>
+            <option>20740</option>
+            <option>20810</option>
+
+
+
+
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="age">Child's Age:</label>
+          <select id="age" name="age">
+            <option selected="selected">Select Options</option>
+
+            <option>3-5</option>
+            <option>6</option>
+            <option>7</option>
+            <option>8</option>
+            <option>9</option>
+            <option>10</option>
+            <option>11</option>
+            <option>12</option>
+            <option>13</option>
+            <option>14</option>
+
+
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="clubtype">Club Type:</label>
+          <select id="clubtype" name="clubtype">
+            <option selected="selected">Select Options</option>
+
+            <option>Sports</option>
+            <option>Art</option>
+            <option>Science</option>
+            <option>Handcraft</option>
+
+
+          </select>
+        </div>
+        <button type="submit" class="input-button">GET STARTED</button>
+      </form>
+    </div>
+  </div>
+
+  <div class="club-categories">
+    <div class="club-category">
+      <a href="http://www.beatdancecompany.fi/"><img src="{% static 'images/sports.jpg' %}" alt="Sports"></a>
+      <a href="http://www.beatdancecompany.fi/">
+        <p>Sports</p>
+      </a>
+    </div>
+    <div class="club-category">
+      <a href="https://sites.utu.fi/luma/vapaa-ajan-tiedetoiminta/tiedekerhot/"><img
+          src="{% static 'images/science.jpg' %}" alt="Science"></a>
+      <p><a href="https://sites.utu.fi/luma/vapaa-ajan-tiedetoiminta/tiedekerhot/">Science</a></p>
+    </div>
+    <div class="club-category">
+      <a
+        href="https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba?count=24&sort=creationDate&reverse=true"><img
+          src="{% static 'images/art.jpg' %}" alt="Art"></a>
+      <p><a
+          href="https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba?count=24&sort=creationDate&reverse=true">Art</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="social-medias">
+    <div class="social-media">
+      <a href="https://www.facebook.com/profile.php?id=61557054437154&is_tour_dismissed=true" target="blank"><img
+          src="{% static 'images/facebook.svg' %}" alt="Facebook"></a>
+    </div>
+    <div class="social-media">
+      <a href="https://twitter.com/ClubsKids81590" target="blank"><img src="{% static 'images/x-twitter.svg' %}"
+          alt="X"></a>
+    </div>
+    <div class="social-media">
+      <a href="https://www.instagram.com/turkukidsclubs/" target="blank"><img src="{% static 'images/instagram.svg' %}"
+          alt="Instagram"></a>
+    </div>
+
+  </div>
+
+</body>
+
+</html>
+{% endblock content %}

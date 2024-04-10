@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        html {
+            height: 100%;
+        }
+        body {
+            height: 100%;
+        }
+        .container {
+            height: 100%;
+            background-image: linear-gradient(to right,#a6c1ee, #fbc2eb);
+            display: flex;
+            justify-content: center; 
+            align-items: center; 
+        }
+        .register-wrapper {
+            background-color: bisque;
+            width: 668px;
+            height: 588px;
+            border-radius: 15px;
+            padding: 0 50px;
+            position: relative;
+            left: 23%;
+            top: 40%;
+            transform: translate(-50%,-50%);   
+        }
+        .header {
+            font-size: 38px;
+            font-weight: bold;
+            text-align: center;
+            padding: 20px 0;
+            line-height: 150px;
+          }
+        .input-item {
+            display: block;
+            width: 100%;
+            margin-bottom: 20px;
+            border: 0;
+            padding: 10px;
+            border-bottom: 1px solid rgb(128,125,125);
+            font-size: 15px;
+            outline: none;
+        }
+        .input-item::placeholder {
+            text-transform: uppercase;
+        }
+        .btn {
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+            margin-top: 40px;
+            background-image: linear-gradient(to right,#a6c1ee, #fbc2eb);
+            color: #fff;
+            border: none;
+            border-radius: 5px; 
+            cursor: pointer; 
+        }
+        .msg {
+            text-align: center;
+            line-height: 70px;
+            margin-top: 20px;
+        }
+        a {
+            text-decoration-line: none;
+            color: #abc1ee;
+            font-weight: bold;
+        }
+    </style>       
+</head>
+<body>
+    <div class="container">
+        <div class="register-wrapper">
+            <div class="header">Register</div>
+            <form action="{% url 'user_accounts:register' %}" method="post">
+              {% csrf_token %}
+              {{ form.as_p }}
+              <div class="form-wrapper">
+
+                <button type="submit" class="btn">Register</button>
+              </div>
+            </form>
+            <div class="msg">
+                Already have account?
+                <a href="{% url 'user_accounts:login' %}">Login here</a>
+            </div>
+        </div>
+    </div>
+  </body>
+  </html>
+  
+  
+

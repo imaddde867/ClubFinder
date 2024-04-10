@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Results</title>
+  <style>
+    body {
+      background-color: #e2e0fb;
+      font-family: "Comic Sans MS";
+      background-image: url("/static/images/background_all.jpg");
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    /* 修改列表项的样式 */
+    ul {
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    li {
+      width: 45%;
+      /* 使每行显示两个搜索结果 */
+      margin-bottom: 20px;
+      background-color: #d1bed1;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      position: relative;
+      padding: 20px;
+      box-sizing: border-box;
+      /* 使 padding 不会影响盒子宽度 */
+    }
+
+    /* 修改链接的样式 */
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Exciting Discoveries Nearby</h1>
+  <ul>
+    {% for club in matching_clubs %}
+    <li>
+      <strong>Club Name:</strong> {{ club.Club_Name }}<br>
+      <strong>Postal Code:</strong> {{ club.Postal_Code }}<br>
+      <strong>Address:</strong> {{ club.Address }}<br>
+      <strong>Age:</strong> {{ club.Age }}<br>
+      <strong>Category:</strong> {{ club.Category }}<br>
+      <strong>Activity:</strong> {{ club.Activity }}<br>
+      <strong>Website:</strong> <a href="{{ club.Website }}">{{ club.Website }}</a><br>
+
+    </li>
+    {% endfor %}
+  </ul>
+</body>
+
+</html>

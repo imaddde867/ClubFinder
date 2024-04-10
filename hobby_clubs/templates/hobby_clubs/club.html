@@ -1,0 +1,43 @@
+{% block content %}
+<h1>{{ club.club_name }}</h1>
+<p>Unique Identifier: {{ club.unique_identifier }}</p>
+<p>Postal Code: {{ club.postal_code }}</p>
+<p>Address: {{ club.address }}</p>
+<p>Age: {{ club.age }}</p>
+<p>Category: {{ club.category }}</p>
+<p>Activity: {{ club.activity }}</p>
+<p>Website: <a href="{{ club.website }}">{{ club.website }}</a></p>
+
+<!-- <form action="{% url 'rate_club' unique_identifier=club.unique_identifier %}" method="post">
+  {% csrf_token %}
+  {{ rating_form.as_p }}
+  <button type="submit">Submit Rating</button>
+</form> -->
+
+<!-- 显示评论表单 -->
+<form action="{% url 'hobby_clubs:new_review' unique_identifier=club.unique_identifier %}" method="post">
+  {% csrf_token %}
+  {{ review_form.as_p }}
+  <button type="submit">Submit Review</button>
+</form>
+
+<!-- 显示已有的评分 -->
+<!-- <h2>Existing Ratings</h2>
+<ul>
+  {% for rating in ratings %}
+  <li>{{ rating.rating }} - {{ rating.user }}</li>
+  {% empty %}
+  <li>No ratings yet.</li>
+  {% endfor %}
+</ul> -->
+
+<!-- 显示已有的评论 -->
+<h2>Existing Reviews</h2>
+<ul>
+  {% for review in reviews %}
+  <li>{{ review.content }} - {{ review.date_added }} - {{ review.user }}</li>
+  {% empty %}
+  <li>No reviews yet.</li>
+  {% endfor %}
+</ul>
+{% endblock %}

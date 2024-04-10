@@ -1,0 +1,12 @@
+{% extends 'hobby_clubs/base.html' %}
+
+{% block title %}Logout{% endblock title %}
+
+{% block content %}
+  <h2>Logout</h2>
+  <p>Are you sure you want to logout?</p>
+  <form action="{% url 'user_accounts:logout' %}" method="post">
+    {% csrf_token %}
+    <button type="submit">Logout</button>
+  </form>
+{% endblock content %}

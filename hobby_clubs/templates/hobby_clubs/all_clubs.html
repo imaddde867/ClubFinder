@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Clubs</title>
+  <style>
+    /* 添加 CSS 样式 */
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #e2e0fd;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.8);
+      /* 修改背景颜色以突出显示内容 */
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      /* 添加背景图 */
+      background-image: url("/static/images/tervetuloa.jpeg");
+      background-size: cover;
+      background-position: top;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #333;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      background-color: #f0f0f0;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      position: relative;
+    }
+
+    .club-name {
+      font-weight: bold;
+      font-size: 24px;
+      color: #333;
+    }
+
+    .club-details {
+      position: relative;
+    }
+
+    .club-details p {
+      margin: 10px 0;
+      font-size: 18px;
+      color: #555;
+    }
+
+    .action-btns {
+      position: absolute;
+      top: 50%;
+      right: 100px;
+      transform: translateY(-50%);
+    }
+
+    .action-btn {
+      display: block;
+      margin-bottom: 10px;
+      padding: 15px 30px;
+      background-color: #d295b0;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-size: 20px;
+    }
+
+    .action-btn:hover {
+      background-color: #d295b0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>All Clubs</h1>
+    <ul>
+      {% for club in clubs %}
+      <li>
+        <div class="club-name">{{ club.Club_Name }}</div>
+        <div class="club-details">
+          <p>Postal Code: {{ club.Postal_Code }}</p>
+          <p>Address: {{ club.Address }}</p>
+
+          <p>Age: {{ club.Age }}</p>
+          <p>Category: {{ club.Category }}</p>
+          <div class="action-btns">
+            <a href="{% url 'hobby_clubs:club' unique_identifier=club.unique_identifier %}" class="action-btn">View
+              Details</a>
+            <button class="action-btn">Like &#10084;</button>
+            <button class="action-btn">Write a Review</button>
+          </div>
+          <!-- 输出唯一标识符 -->
+          <p>Website: <a href="{{ club.Website }}" class="website-link" target="_blank">{{ club.Website }}</a></p>
+        </div>
+      </li>
+      {% empty %}
+      <li>No clubs available.</li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
+
+</html>
