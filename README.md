@@ -1,4 +1,4 @@
-# ClubFinder 🚀
+# Turku Kids Clubs Finder 🚀
 
 ## Overview
 
