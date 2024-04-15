@@ -1,0 +1,30 @@
+<!-- science_clubs.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Science Clubs</title>
+</head>
+
+<body>
+  <h1>Science Clubs</h1>
+  <ul>
+    {% for club in science_clubs %}
+    <li>
+      <h2>{{ club.club_name }}</h2>
+      <p><strong>Postal Code:</strong> {{ club.postal_code }}</p>
+      <p><strong>Address:</strong> {{ club.address }}</p>
+      <p><strong>Age:</strong> {{ club.age }}</p>
+      <p><strong>Activity:</strong> {{ club.activity }}</p>
+      <p><a href="{{ club.website }}">Website</a></p>
+    </li>
+    {% empty %}
+    <li>No science clubs available.</li>
+    {% endfor %}
+  </ul>
+</body>
+
+</html>

@@ -1,171 +1,744 @@
 unique_identifier,Club_Name,Postal_Code,Address,Age,Category,Activity,Website
-811,BeatDance,20320,Tammimäenkatu 3,7,Sports,Dance,https://www.beatdancecompany.fi/
-394,Tuto Hockey,20700,Sepänkatu 5b,7,Sports,Hocky,https://www.tuto.fi/
-753,FBC Turku,20320,Niitunniskantie 18,8,Sports,Basketball,https://www.fbcturku.net/
-417,4h,20460,Arkeologinkatu 4,8,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
-655,4h,20320,Pirttilähteenkatu 5,7,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
-489,4h,20320,Pirttilähteenkatu 5,10,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
-148,4h,20320,Pirttilähteenkatu 5,7,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
-410,4h,20540,Gregorius IX tie 8,7,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
-713,4h,20700,Sepänkatu 3,7,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
-891,4h,20320,Pirttilähteenkatu 5,7,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
-734,4h,20700,Sepänkatu 3,7,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
-462,4h,20750,Maistraatinpolku 1,7,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
-403,4h,20320,Pirttilähteenkatu 5,7,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
-843,4h,20540,Gregorius IX tie 8,7,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
-332,Turun Parkour Akatemia,20100,Helsinginkatu 21,7,Sports,Parkour,https://parkourakatemia.fi/turku/
-228,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-252,Turun Yamatokai ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-562,Idrottsklubben Academia,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-109,Turun Han Moo Do ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-105,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-391,Shisei ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-235,Turun judoseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-640,Karate-do Shotokai,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-518,Kyokushin Karate,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-487,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-368,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-646,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-740,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-838,Turun Hapkidoseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-507,Turun Taekwondo ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-360,Turun Taidoseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-190,Turun Kontaktikarateseura,20300,Raunistulantie 15,7,Sports,Sports,http://www.tkks.net/
-930,Turun Teräs,20300,Raunistulantie 15,7,Sports,Sports,http://www.tute.fi/
-503,Turun Urheiluliitto,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-400,Turun Weikot,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunweikot.fi/
-655,Turun Toverit,20300,Raunistulantie 15,7,Sports,Sports,http://www.tuto.fi/
-671,Turun Voimamiehet,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunvoimamiehet.fi/
-778,Turun Atleettiklubi,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-548,Pallo-kotkat,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-986,RC Gold Boys,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-810,Turun Kaiku,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-729,Turun Pallas,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-598,Turun Pyrkivä,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunpyrkiva.fi/
-675,Turun Toverit,20300,Raunistulantie 15,7,Sports,Sports,http://www.tuto.fi/
-951,Pyrkivä Gymnastics,20300,Raunistulantie 15,7,Sports,Sports,https://www.pyrkivagymnastics.fi/
-831,Turun Urheiluliitto,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
-901,VIMMA,20100,Aurakatu 16,7,Art,drawing,https://ark-lpr.fi/en/projekti/vimma-turku/
-200,GoBabyGo,20810,Hopeasepänkuja 2,7,Sports,Sports,https://liikutaanilosta.fi/
-533,FC TPS,20520,Lemminkäisenkatu 14-18 B,7,Sports,Football,https://fc.tps.fi/juniorit/
-558,HC TPS,20210,Artukaistentie 8,7,Sports,Hocky,https://www.tps-juniorit.net/
-733,Inter Aciton,20740,Lauklähteenkatu 13,7,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
-933,Tehoharjoittelu,20700,Turku Energia Areena,7,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
-242,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,7,Handcraft,Handmade,https://www.turku.fi/vimma/
-717,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,7,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
-695,Aunelan nuorisotila,20210,Opintie 1,7,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
-319,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,7,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
-139,Halisten nuorisotila,20540,Gregorius IX:n tie 8,7,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
-453,Hansan nuorisotila,20100,Yliopistonkatu 20,7,Sports,Youth activities,https://www.turku.fi/toimipaikat/hansan-nuorisotila/
-666,Maarian nuorisotila,20460,Arkeologinkatu 4,7,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
-638,Nuorisotila Pastell,20100,Humalistonkatu 7 B,7,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
-809,Paattisten nuorisotila,21330,Paattistalonkatu 1,7,Sports,Indoor activities,https://www.turku.fi/places/paattinen-youth-centre/
-820,Pansion nuorisotila,20240,Pernontie 16 rakennus B,7,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
-228,Runosmäen nuorisotila,20360,Piiparinpolku 13,7,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
-235,Skanssin nuorisotila,20730,Skanssinkatu 10,7,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre/
-367,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,7,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
-420,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,7,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre/
-654,Turku Game Academy,20210,Opintie 1,7,Science,Game,https://www.turku.fi/toimipaikat/turku-game-academy-pelitila-nexus/
-135,Varissuon nuorisotila,20610,Kraatarinkatu 4,7,Sports,Indoor activities,https://www.turku.fi/places/varissuo
-806,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,7,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
-559,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,7,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
-434,Akvarellimaalaus,20100,Satakuntatie 10,7,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65a542d06b8b8179a66d775b
-454,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
-829,Makramee-harrasteryhmä,20100,Satakunnantie 10,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
-292,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
-502,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
-859,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
-489,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
-507,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,7,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
-890,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
-292,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,7,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
-312,Marsuja ja katastrofeja -teatterillinen satutuokio kirjastoissa,20210,kirjasto,7,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65b1165c0e1724043af07685
-634,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
-523,Harry Potter -ilta,20100,Linnankatu 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
-905,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,7,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
-760,Temppukoulu,20610,Talvitie 10,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
-306,Temppukoulu,20240,Pernontie 29,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
-544,Temppukoulu,20500,Vanha Suurtori 1,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
-232,Temppukoulu,20100,Pietari Valdin katu 14,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
-705,Tuomiokirkon muskari,20500,Turun tuomiokirkko,7,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
-142,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
-732,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,7,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
-644,Kirjastotaiteilija,20740,Lauklähteenkatu 13,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
-746,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,7,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
-939,Unga poeters sällskap,20100,Slottsgatan 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
-494,Kansantanssi,20360,Varusmestarintie 14,7,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
-197,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
-839,Berättelsetisdag,20100,Slottsgatan 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
-798,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,7,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
-324,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,7,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
-751,tiedekoulu,20100,Lonttistentie 9C 20100,7,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
-999,BeatDance,20320,Tammimäenkatu 3 20320 Turku,8,Sports,Dance,https://www.beatdancecompany.fi/
-796,Tuto Hockey,20700,Sepänkatu 5b 20700 Turku,6,Sports,Hocky,https://www.tuto.fi/
-480,FBC Turku,20320,Niitunniskantie 18 20320 Turku,8,Sports,Basketball,https://www.fbcturku.net
-450,4h,20460,Arkeologinkatu 4,8,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
-247,4h,20320,Pirttilähteenkatu 5,8,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
-360,4h,20320,Pirttilähteenkatu 5,8,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
-146,4h,20320,Pirttilähteenkatu 5,8,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
-715,4h,20540,Gregorius IX tie 8,8,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
-193,4h,20700,Sepänkatu 3,8,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
-753,4h,20320,Pirttilähteenkatu 5,8,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
-931,4h,20700,Sepänkatu 3,8,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
-470,4h,20750,Maistraatinpolku 1,8,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
-454,4h,20320,Pirttilähteenkatu 5,8,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
-950,4h,20540,Gregorius IX tie 8,8,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
-405,Turun Parkour Akatemia,20100,Helsinginkatu 21,8,Sports,Parkour,https://parkourakatemia.fi/turku/
-218,Aikido Dojo Turku ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-598,Turun Yamatokai ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-857,Idrottsklubben Academia,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-705,Turun Han Moo Do ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-722,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-610,Shisei ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-299,Turun judoseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-555,Karate-do Shotokai – Ken Sei Kan ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-952,Kyokushin Karate – Kyokushinkarate Turku Finland ry.,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-852,Choy Lee Fut – Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-971,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-658,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-695,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-316,Turun Hapkidoseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-515,Turun Taekwondo ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-311,Turun Taidoseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-929,Turun Kontaktikarateseura,20300,Raunistulantie 15,8,Sports,Sports,http://www.tkks.net/
-957,Turun Teräs,20300,Raunistulantie 15,8,Sports,Sports,http://www.tute.fi/
-922,Turun Urheiluliitto,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-699,Turun Weikot,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunweikot.fi/
-803,Turun Toverit,20300,Raunistulantie 15,8,Sports,Sports,http://www.tuto.fi/
-252,Turun Voimamiehet,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunvoimamiehet.fi/
-253,Turun Atleettiklubi,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-537,Pallo-kotkat,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-804,RC Gold Boys,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-155,Turun Kaiku,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-831,Turun Pallas,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-299,Turun Pyrkivä,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunpyrkiva.fi/
-312,Turun Toverit,20300,Raunistulantie 15,8,Sports,Sports,http://www.tuto.fi/
-893,Pyrkivä Gymnastics,20300,Raunistulantie 15,8,Sports,Sports,https://www.pyrkivagymnastics.fi/
-248,Turun Urheiluliitto,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
-473,VIMMA,20100,Aurakatu 16,8,Art,drawing,https://ark-lpr.fi/en/projekti/vimma-turku/
-480,GoBabyGo,20810,Hopeasepänkuja 2,8,Sports,Sports,https://liikutaanilosta.fi/
-829,FC TPS,20520,Lemminkäisenkatu 14-18 B,8,Sports,Football,https://fc.tps.fi/juniorit/
-998,HC TPS,20210,Artukaistentie 8,8,Sports,Hocky,https://www.tps-juniorit.net/
-258,Inter Aciton,20740,Lauklähteenkatu 13,8,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
-479,Tehoharjoittelu,20700,Turku Energia Areena,8,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
-385,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,8,Handcraft,Handmade,https://www.turku.fi/vimma
-282,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,8,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto
-403,Aunelan nuorisotila,20210,Opintie 1,8,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo
-529,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,8,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila
-918,Halisten nuorisotila,20540,Gregorius IX:n tie 8,8,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila
-388,Hansan nuorisotila,20100,Yliopistonkatu 20,8,Sports,Youth activities,https://www.turku.fi/toimipaikat/hansan-nuorisotila
-437,Maarian nuorisotila,20460,Arkeologinkatu 4,8,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila
-890,Nuorisotila Pastell,20100,Humalistonkatu 7 B,8,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell
-659,Paattisten nuorisotila,21330,Paattistalonkatu 1,8,Sports,Indoor activities,https://www.turku.fi/places/paattinen-youth-centre
-428,Pansion nuorisotila,20240,Pernontie 16 rakennus B,8,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre
-799,Runosmäen nuorisotila,20360,Piiparinpolku 13,8,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre
-978,Skanssin nuorisotila,20730,Skanssinkatu 10,8,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre
-477,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,8,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo
-482,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,8,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre
-103,Turku Game Academy,20210,Opintie 1,8,Science,Game,https://www.turku.fi/toimipaikat/turku-game-academy-pelitila-nexus
-293,Varissuon nuorisotila,20610,Kraatarinkatu 4,8,Sports,Indoor activities,https://www.turku.fi/places/varissuo-youth-centre
-459,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,8,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
-814,Skeittihalli Cube,20200,Ruissalontie 37–39 G-rakennus,8,Sports,Sports,https://www.turku.fi/kulttu
+d2b6ac25-e119-4787-99b3-d2e98fa82258,BeatDance,20320,Tammimäenkatu 3,7,Sports,Dance,https://www.beatdancecompany.fi/
+4a6adf3d-76c8-4914-9ecb-d1550c47c5fc,Tuto Hockey,20700,Sepänkatu 5b,7,Sports,Hocky,https://www.tuto.fi/
+2514ba5c-7c40-43b7-826b-a599e0b622fa,FBC Turku,20320,Niitunniskantie 18,8,Sports,Basketball,https://www.fbcturku.net/
+d5525e91-7730-4b82-a5ae-9e2ada3d8317,4h,20460,Arkeologinkatu 4,8,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+abe43ad2-4393-4599-b36a-330e1e20706e,4h,20320,Pirttilähteenkatu 5,7,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+0cb21d82-53fe-4d8d-9c24-7e06e6ef3702,4h,20320,Pirttilähteenkatu 5,10,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
+02aa1cab-dbc8-4733-8b7c-3f72fc1c1291,4h,20320,Pirttilähteenkatu 5,7,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
+1fb99ba4-3fa2-41ba-8fbf-9c796ee38926,4h,20540,Gregorius IX tie 8,7,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+eff32cb0-a2da-47c8-953f-1c5a909bd335,4h,20700,Sepänkatu 3,7,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+23bfe14a-09cd-4f63-a15a-8829f5ff64aa,4h,20320,Pirttilähteenkatu 5,7,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+c49be01c-7670-4563-8d41-e6464d5e3192,4h,20700,Sepänkatu 3,7,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+d2e55ed8-b316-4d80-aee8-ccbd9002914c,4h,20750,Maistraatinpolku 1,7,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
+69106a81-f5a1-445d-898c-675a2dc11e62,4h,20320,Pirttilähteenkatu 5,7,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
+bee3900d-599c-403a-9805-56f3259b053a,4h,20540,Gregorius IX tie 8,7,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+239bf712-9b87-496e-92b6-121a7240583b,Turun Parkour Akatemia,20100,Helsinginkatu 21,7,Sports,Parkour,https://parkourakatemia.fi/turku/
+8c351b1d-7a36-4a86-bbc8-79c0c447c632,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+80509aef-f02f-49fe-9ce1-a53cef8a1773,Turun Yamatokai ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+fe1030a7-9fb4-4ef7-b644-d383fa0ea684,Idrottsklubben Academia,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+6f2c1fb2-b162-4e25-89cc-051a6e768a0f,Turun Han Moo Do ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+cc26337c-da0c-4e86-afa2-ec49c632a32a,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+8bc2e03e-d71f-4703-ae81-2e77f49b479d,Shisei ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+bb13a9dd-7b45-48fb-8d9c-c68aeb921604,Turun judoseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+38bd7beb-a801-43e7-97c5-46a8e9e4c883,Karate-do Shotokai,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+a4ae5bb6-2b17-4eae-9906-ccaaa39323db,Kyokushin Karate,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+eefd3200-6fec-40b7-bdc2-d6a6f1bdd583,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+c5839938-5812-4d20-a5bf-b6a8d78113ae,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+2445acdc-e2ad-4617-aeee-78cb376085a3,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+bffea8f6-e992-417e-90d2-6821c3f33161,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+870c0fcc-8f98-4535-9353-092ddb9227ba,Turun Hapkidoseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+1c8f84f2-d5a5-478a-b726-c08b02545581,Turun Taekwondo ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+19247c15-aef1-4014-991e-6c91aa7a07bb,Turun Taidoseura ry,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+8275ff12-5522-4edb-acd3-b93312435617,Turun Kontaktikarateseura,20300,Raunistulantie 15,7,Sports,Sports,http://www.tkks.net/
+81d12d9c-2f03-468d-aa5b-d3fb06090c19,Turun Teräs,20300,Raunistulantie 15,7,Sports,Sports,http://www.tute.fi/
+6142b526-8530-484c-89ea-70d2e1f9a4a1,Turun Urheiluliitto,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+15a89073-316d-4983-8f4a-a1908ff11ffb,Turun Weikot,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunweikot.fi/
+065cebd3-8a10-48ea-8fd5-3fa8637c0528,Turun Toverit,20300,Raunistulantie 15,7,Sports,Sports,http://www.tuto.fi/
+c7d006a6-728b-4b0f-a4b6-38ee329a188c,Turun Voimamiehet,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunvoimamiehet.fi/
+10b82791-0bab-45b7-a83f-c7e641e3adb7,Turun Atleettiklubi,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+a33db544-042c-4dd4-941c-5e3583e5bbb0,Pallo-kotkat,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+46bdad11-4e9a-4178-b3a2-78df7392dd7b,RC Gold Boys,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+3c1a7a57-194c-4428-9d08-0f1e9f17d2de,Turun Kaiku,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+9f8cbdd9-7f62-46d8-9788-21b0e69e9c2d,Turun Pallas,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+41bef3c6-cadc-4db2-a3de-a0328795f824,Turun Pyrkivä,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunpyrkiva.fi/
+cc00ca0c-0d1f-4a02-94c5-d7be04bca7b7,Turun Toverit,20300,Raunistulantie 15,7,Sports,Sports,http://www.tuto.fi/
+d31c5df1-7559-4e8d-b672-cd6b3d12024a,Pyrkivä Gymnastics,20300,Raunistulantie 15,7,Sports,Sports,https://www.pyrkivagymnastics.fi/
+693e2825-8a79-497a-b875-310ffe42a01b,Turun Urheiluliitto,20300,Raunistulantie 15,7,Sports,Sports,http://www.turunurheiluliitto.fi/
+fd4eef49-f970-43fa-a744-809108dd6b1b,VIMMA,20100,Aurakatu 16,7,Art,drawing,https://ark-lpr.fi/en/projekti/vimma-turku/
+73564e7f-b9ab-46da-87a2-a982fb5c5132,GoBabyGo,20810,Hopeasepänkuja 2,7,Sports,Sports,https://liikutaanilosta.fi/
+0355b962-3e37-4141-b06e-b0ff2294adc6,FC TPS,20520,Lemminkäisenkatu 14-18 B,7,Sports,Football,https://fc.tps.fi/juniorit/
+8979afb2-1e9c-42ff-adbe-7b1afc5d700e,HC TPS,20210,Artukaistentie 8,7,Sports,Hocky,https://www.tps-juniorit.net/
+7d658ab7-72b2-4c33-9a66-b5a207017e75,Inter Aciton,20740,Lauklähteenkatu 13,7,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+bc0786be-ac21-4ca6-b90d-7bcd63cff600,Tehoharjoittelu,20700,Turku Energia Areena,7,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+9ad1b827-2dca-4d99-8543-d4bbd5dca841,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,7,Handcraft,Handmade,https://www.turku.fi/vimma/
+70cd1889-e034-4a15-8818-d8f7e433ad8c,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,7,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+bd44b162-8691-4557-93bc-f5807db03a89,Aunelan nuorisotila,20210,Opintie 1,7,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+04cfeaf1-cefb-4855-b146-9fba18e80d23,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,7,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
+316ee1de-ea94-4f92-88b9-d286a9344485,Halisten nuorisotila,20540,Gregorius IX:n tie 8,7,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+0cefc196-24a4-4197-959d-331d0a0b42d4,Hansan nuorisotila,20100,Yliopistonkatu 20,13,Sports,Youth activities,https://www.turku.fi/toimipaikat/hansan-nuorisotila/
+099ff2ec-9a5d-463a-82de-0539a82a9e95,Maarian nuorisotila,20460,Arkeologinkatu 4,7,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+0b6ac6cd-7570-45bf-ab58-2bbe43074230,Nuorisotila Pastell,20100,Humalistonkatu 7 B,7,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
+2fce0143-e593-4caf-a863-e09b7e093406,Paattisten nuorisotila,21330,Paattistalonkatu 1,7,Sports,Indoor activities,https://www.turku.fi/places/paattinen-youth-centre/
+db14caaf-517f-43a1-8299-5275961114c6,Pansion nuorisotila,20240,Pernontie 16 rakennus B,7,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
+1da88eab-8abb-4601-94cb-3a5a0eb48365,Runosmäen nuorisotila,20360,Piiparinpolku 13,7,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+76c8fc53-17cb-49f4-aca2-656aaaa122b9,Skanssin nuorisotila,20730,Skanssinkatu 10,7,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre/
+c9a24915-67e1-4791-8af2-7c81ea3b7431,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,7,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+644058cf-f5ee-4cff-b4f1-fc9058d4d1f4,Turku Game Academy,20210,Opintie 1,13,Science,Game,https://www.turku.fi/toimipaikat/turku-game-academy-pelitila-nexus/
+52538b6c-c45d-41ec-8429-b5cfd913503a,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,7,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+caf53aba-f720-4109-b0a1-4b38cc4b7888,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,7,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
+247daf56-0756-4b88-87b4-4b340569ff29,Akvarellimaalaus,20100,Satakuntatie 10,7,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65a542d06b8b8179a66d775b
+7212fe28-9301-4407-ac02-18d85af7eba0,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+5682950e-b4f8-4492-936c-173ed47aae07,Makramee-harrasteryhmä,20100,Satakunnantie 10,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+6cf2b5cc-b888-4cd5-8260-401a3f1283d5,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
+8a82fef9-a9b7-4491-a089-240adbcab2ed,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+ec58323b-eea4-4720-a9a7-aa855975fa33,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
+cc939072-05db-407d-9306-a59263c0282e,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+31bd45ca-d21c-4914-a417-994ccf03aa08,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,7,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
+b3352f53-babc-4c93-9ba8-63d2686dd0f8,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+c5ffeba8-f9b7-4d51-87f7-0d49c0f04206,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,10,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
+33229d8a-cfa6-4653-bca9-cb973c91462d,Marsuja ja katastrofeja -teatterillinen satutuokio kirjastoissa,20210,kirjasto,7,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65b1165c0e1724043af07685
+8cac37cb-cff2-4b01-9d32-8d884e432685,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+bba55a6b-e796-4bea-a3b3-3a192dd7beb0,Harry Potter -ilta,20100,Linnankatu 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+bfbbcaa2-e2d6-423f-ac8e-a815518e1da7,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,7,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
+ccff049d-f6c5-459c-8e48-a061a0ac135c,Temppukoulu,20610,Talvitie 10,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+f1d50c05-4a7e-43bc-9a61-89247d20a052,Temppukoulu,20240,Pernontie 29,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+2c01a6ba-84d4-4ca6-87bf-89cc8fd5dfc7,Temppukoulu,20500,Vanha Suurtori 1,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+9127fa3e-cb98-4b5b-aa50-6e7e2dafe4f0,Temppukoulu,20100,Pietari Valdin katu 14,7,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+a22fab39-110d-43d6-b221-2b4069ea9f08,Tuomiokirkon muskari,20500,Turun tuomiokirkko,7,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+f9629fdb-04cf-4220-a7cd-fb8b64e2a482,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+c13d520f-8d13-4eb8-93f6-4fcb24e64852,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,7,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
+fd6c3bb8-24a8-469b-85b4-88891ccd1ed1,Kirjastotaiteilija,20740,Lauklähteenkatu 13,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+59c28522-dc22-47e7-b71d-440c0e18cb8b,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,7,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+4c15e086-9044-4bdd-8e10-8782b7a7f2d9,Unga poeters sällskap,20100,Slottsgatan 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
+3c119760-d727-44d0-9859-7f9755769679,Kansantanssi,20360,Varusmestarintie 14,7,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+6ba4d898-f137-4ee9-b962-6aac88d1b3e5,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,7,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+d341c9f7-01ae-4ee4-bf69-2c3bea81276e,Berättelsetisdag,20100,Slottsgatan 2,7,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+02887135-a182-45b2-98a9-99e9247c52f2,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,7,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+2e4fdd50-e076-43ad-acbf-5227433a6dde,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,7,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+4f205d5f-a215-49b3-a859-adde5f28c1a1,tiedekoulu,20100,Lonttistentie 9C 20100,7,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
+2098a804-ac5b-411d-bb1b-6f8d38dee5cb,BeatDance,20320,Tammimäenkatu 3 20320 Turku,8,Sports,Dance,https://www.beatdancecompany.fi/
+631e2e8b-8f5b-426c-9a86-889a95e9fc65,Tuto Hockey,20700,Sepänkatu 5b 20700 Turku,6,Sports,Hocky,https://www.tuto.fi/
+bdb07f0f-3177-4abb-a967-7f9d5441ee01,FBC Turku,20320,Niitunniskantie 18 20320 Turku,8,Sports,Basketball,https://www.fbcturku.net
+d8adbd53-1807-4339-a850-ce2752ad8b8b,4h,20460,Arkeologinkatu 4,8,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+121de658-b6c6-4496-80e8-59c340c2b948,4h,20320,Pirttilähteenkatu 5,8,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+c86fb185-fa18-41bf-9171-da8a3ec1b150,4h,20320,Pirttilähteenkatu 5,8,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
+e073f69c-ff94-47c1-a921-192b66188238,4h,20320,Pirttilähteenkatu 5,8,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
+1c6e7cec-3f2a-474c-aa21-36c1fe620990,4h,20540,Gregorius IX tie 8,8,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+d8db1714-8d65-4b73-8610-e5a3406bf72d,4h,20700,Sepänkatu 3,8,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+8ced2f8b-120b-4315-b29e-bbd4741560f4,4h,20320,Pirttilähteenkatu 5,8,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+302462e9-1b13-4366-835e-4aaca0d5e93e,4h,20700,Sepänkatu 3,8,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+0d4538f4-2c63-478c-809a-d4a0976a71fa,4h,20750,Maistraatinpolku 1,8,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
+421c4f3d-4b5a-4d29-9de1-25060183e35f,4h,20320,Pirttilähteenkatu 5,8,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
+21c819d1-f4ff-4799-9bda-d4854aa81721,4h,20540,Gregorius IX tie 8,8,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+f4fd3e49-f436-4413-bd8b-a19e9533c273,Turun Parkour Akatemia,20100,Helsinginkatu 21,8,Sports,Parkour,https://parkourakatemia.fi/turku/
+d3c8d6f9-6a2c-47d7-969f-174c4e60f06b,Aikido Dojo Turku ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+03278379-843f-40cb-b25f-98e2915006a5,Turun Yamatokai ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+2b72e4d8-947a-4248-8d71-0d9546d416f8,Idrottsklubben Academia,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+d3822785-c4e9-4fb3-95d0-c901fa16a3d3,Turun Han Moo Do ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+90f07687-6274-4f8b-b722-05df2527500e,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+d5e65ffb-996f-4457-ad54-71992be25565,Shisei ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+937b8e3e-f5ed-43be-90ba-03ac88178521,Turun judoseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+2300909a-fda4-443a-a4fc-85d1d693c3be,Karate-do Shotokai – Ken Sei Kan ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+2428923a-2add-4131-9de6-6a7e0cdd6cd5,Kyokushin Karate – Kyokushinkarate Turku Finland ry.,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+dd311057-c3b7-451f-94c2-c065b8daf946,Choy Lee Fut – Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+8b2fb853-a668-4cff-9fcc-c4a32a0043ac,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+d9fc8a92-bdb3-4d94-ae8e-de20ba4eeb15,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+48f140b6-8436-49e3-9835-e131f51ef532,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+b225d7f8-cb5d-4379-97ea-7c7311b2df64,Turun Hapkidoseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+f7a73d18-b386-4d31-8d64-d9e1dd1c816a,Turun Taekwondo ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+31f0ed08-fd75-4053-b984-dc8f4d68b9ff,Turun Taidoseura ry,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+30b30903-121a-48e0-aad7-d709aed72d1f,Turun Kontaktikarateseura,20300,Raunistulantie 15,8,Sports,Sports,http://www.tkks.net/
+a671a80f-33ab-4dc7-99f5-3271030a228d,Turun Teräs,20300,Raunistulantie 15,8,Sports,Sports,http://www.tute.fi/
+fcb5f356-e867-4c92-a699-1bb0b9133f2f,Turun Urheiluliitto,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+47514439-fe79-4592-8796-a04748fde23b,Turun Weikot,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunweikot.fi/
+1867dc76-1f29-4cd4-9f98-526d81632a39,Turun Toverit,20300,Raunistulantie 15,8,Sports,Sports,http://www.tuto.fi/
+9af58e6d-dfa5-4354-ad46-f4cc33585c1c,Turun Voimamiehet,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunvoimamiehet.fi/
+a6eb59ad-5549-4023-8f66-261e670cc0f8,Turun Atleettiklubi,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+67231b12-37f8-4a9f-81c0-56ed69af3a75,Pallo-kotkat,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+815a6123-056c-4c2b-8595-f5ab971e19be,RC Gold Boys,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+f1c6108a-8e02-4797-84ed-e144d8566bd9,Turun Kaiku,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+e2089056-55be-45c1-92ec-2e7e8dc4408f,Turun Pallas,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+fd98d204-0f08-4958-9249-d5a4b214bcfe,Turun Pyrkivä,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunpyrkiva.fi/
+ce899db5-c4a3-415b-9288-e9e20f4df2aa,Turun Toverit,20300,Raunistulantie 15,8,Sports,Sports,http://www.tuto.fi/
+839ad47b-4b27-43d3-9df4-81be5b729445,Pyrkivä Gymnastics,20300,Raunistulantie 15,8,Sports,Sports,https://www.pyrkivagymnastics.fi/
+05ab8fb4-def5-4eac-a4ca-ddace43b3c8f,Turun Urheiluliitto,20300,Raunistulantie 15,8,Sports,Sports,http://www.turunurheiluliitto.fi/
+054e32ca-87c0-45eb-bcc5-847d9ed735c7,VIMMA,20100,Aurakatu 16,8,Art,drawing,https://ark-lpr.fi/en/projekti/vimma-turku/
+79a838b8-70ee-4c12-826d-1de8389b24bf,GoBabyGo,20810,Hopeasepänkuja 2,8,Sports,Sports,https://liikutaanilosta.fi/
+d4d66949-a941-4197-9a94-fc28f2bfd50f,FC TPS,20520,Lemminkäisenkatu 14-18 B,8,Sports,Football,https://fc.tps.fi/juniorit/
+f7512d49-a3b7-4c62-b7d8-d6f04e1bf7da,HC TPS,20210,Artukaistentie 8,8,Sports,Hocky,https://www.tps-juniorit.net/
+40796fb3-bf33-46df-b307-18df4a2a6c87,Inter Aciton,20740,Lauklähteenkatu 13,8,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+ec6cb01d-b360-41b7-9746-098f60c64ad6,Tehoharjoittelu,20700,Turku Energia Areena,8,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+c5551c50-3876-4223-8823-70092a784469,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,8,Handcraft,Handmade,https://www.turku.fi/vimma
+58a7bf2e-f68c-47a6-851a-1920a788cb47,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,8,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto
+4d46b622-9fe4-4ee3-b50f-85c10867dd11,Aunelan nuorisotila,20210,Opintie 1,8,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo
+e2abfa41-9d64-4a9d-bf82-d503b69d8614,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,8,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila
+271d5d8d-04c0-4f9b-95d4-6d94c99cc43e,Halisten nuorisotila,20540,Gregorius IX:n tie 8,8,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila
+a447e162-cc05-4af1-8d0c-5f488f91e6ef,Hansan nuorisotila,20100,Yliopistonkatu 20,8,Sports,Youth activities,https://www.turku.fi/toimipaikat/hansan-nuorisotila
+75876a6d-b6e4-43b4-982f-62398ae6b9eb,Maarian nuorisotila,20460,Arkeologinkatu 4,8,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila
+ebca9e6e-dea8-4515-9d1c-1cc2230c03c3,Nuorisotila Pastell,20100,Humalistonkatu 7 B,8,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell
+c52bc1dd-7be3-465c-8de5-0dc305a7feca,Paattisten nuorisotila,21330,Paattistalonkatu 1,8,Sports,Indoor activities,https://www.turku.fi/places/paattinen-youth-centre
+29462502-1077-4f3d-8b89-fd2246a0b50b,Pansion nuorisotila,20240,Pernontie 16 rakennus B,8,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre
+02a15d2e-71f2-4ac4-ac3e-589e917d4a4a,Runosmäen nuorisotila,20360,Piiparinpolku 13,8,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre
+53665f22-ec68-4367-94b0-cb4d4f1236b8,Skanssin nuorisotila,20730,Skanssinkatu 10,8,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre
+3984bb0a-94af-400e-8e6a-455a89dded38,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,8,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo
+2ff2fb48-6eac-4a39-9cd3-a2065010de54,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,9,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre
+492e13e9-bab8-4b4a-821d-6d9072dff20f,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,8,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+8b2bf98d-5bcb-4001-a0cc-244766a56bdc,Skeittihalli Cube,20200,Ruissalontie 37–39 G-rakennus,8,Sports,Skateboarding,https://www.turku.fi/kulttu
+5ee35d72-cb4b-40f9-84b7-12c85b9b6f76,BeatDance,20320,Tammimäenkatu 3,3,Sports,Dance,https://www.beatdancecompany.fi/
+115cf387-7f84-49dd-8d87-e0dc73a32ec0,FBC Turku,20320,Niitunniskantie 18,3,Sports,Basketball,https://www.fbcturku.net/
+0502d960-f74a-4ca2-a7e7-1d4e182d0e84,4h,20320,Pirttilähteenkatu 5,3,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+fc20f011-30c5-4de8-b8e6-a87820b7f0aa,Pyrkivä Gymnastics,20300,Raunistulantie 15,3,Sports,Sports,https://www.pyrkivagymnastics.fi/GoBabyGo
+f2bf56bc-dbc0-4458-ac43-3179da15d02a,FC TPS,20520,Lemminkäisenkatu 14-18 B,3,Sports,Football,https://fc.tps.fi/juniorit/
+05f51062-e339-428b-a5b4-fdf060631c5b,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,3,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+95524830-d70f-475f-879d-b2b6b4cc056d,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,3,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+4e24abb6-3983-47c7-a719-51957b2327e6,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,3,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+3ffce5dd-c879-4059-9e5f-2538be42fa17,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,3,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+c34a1228-2c9e-443c-b58b-d9d2bc1a7c9a,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,3,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+7c4d999c-6ce5-4c0c-a762-794d84790d19,Temppukoulu,20500,Vanha Suurtori 1,3,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+5be0319d-7d10-4467-bf32-9c17a0c3a814,Tuomiokirkon muskari,20500,Turun tuomiokirkko,3,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+5b95ea03-fece-4e93-9c1c-815609a9c022,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,3,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
+0333ebfd-cc55-4c2f-b353-57c39c76b964,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,3,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+a7920bad-b068-4cb8-b645-c9bed1f725fb,Kansantanssi,20360,Varusmestarintie 14,3,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+8a857c3d-b62b-44c6-b0d5-925ae3a9831e,BeatDance,20320,Tammimäenkatu 3,7,Sports,Dance,https://www.beatdancecompany.fi/
+53dbcbba-bffa-4999-8f32-26dfbb2befbb,Tuto Hockey,20700,Sepänkatu 5b,6,Sports,Hocky,https://www.tuto.fi/
+5c079ac6-0b13-4394-b7ad-13ebcfc35a51,FBC Turku,20320,Niitunniskantie 18,6,Sports,Basketball,https://www.fbcturku.net/
+1513a988-cf00-4ade-af2e-3af100851fc1,4h,20460,Arkeologinkatu 4,6,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+6aff3525-bc31-449b-b2bf-57a96d4addda,4h,20320,Pirttilähteenkatu 5,9,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+0829ea04-436d-4152-954e-acd93b5fc4a4,4h,20540,Gregorius IX tie 8,6,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+a1f48468-fbd1-4810-822b-7b95f83b1916,4h,20540,Gregorius IX tie 8,6,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+06db58b9-3ac3-4eec-830a-227999169319,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,6,Sports,Sports,http://www.turunurheiluliitto.fi/
+40dd8b96-be17-4413-807c-a22c378497f5,Pyrkivä Gymnastics,20300,Raunistulantie 15,6,Sports,Sports,https://www.pyrkivagymnastics.fi/
+f8143b52-b00b-4781-86f2-8366637afebc,GoBabyGo,20810,Hopeasepänkuja 2,6,Sports,Sports,https://liikutaanilosta.fi/
+26c2797b-dd40-4f59-a397-8154b6f4602c,FC TPS,20520,Lemminkäisenkatu 14-18 B,6,Sports,Football,https://fc.tps.fi/juniorit/
+c1c0552c-b751-4ad5-b9d1-25600d55b9a6,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,6,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+030c2314-41d7-4b77-84bb-bae4b13c28cf,Makramee-harrasteryhmä,20100,Satakunnantie 10,6,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+2c4523d5-323a-4d55-aeb5-beee91857b90,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,6,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+644fae40-b732-4f6c-9e8d-0ad04e53bde5,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,6,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+f7176bef-6ce6-4dcf-8a16-1b7e14901e77,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,6,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+e72607ee-3891-4429-8437-082c72e3feea,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,6,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+f99c132f-2275-4ecf-b1f8-ad237d1f419b,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,6,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+d4aa31bc-848a-40fd-a29b-c54536b913b9,Harry Potter -ilta,20100,Linnankatu 2,6,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+0776c23f-d30b-4c61-82eb-28a0a923293a,Temppukoulu,20500,Vanha Suurtori 1,6,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+55c5ed89-7527-4430-9d29-49960137a2d6,Tuomiokirkon muskari,20500,Turun tuomiokirkko,6,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+8766a39e-4fab-46ac-9118-92e183fe9e4b,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,6,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+30029fb3-879d-4cd7-8b73-38ccb9a3c3ee,Kirjastotaiteilija,20740,Lauklähteenkatu 13,6,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+94bf7caa-ca94-4bd5-9699-82366255d5a8,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,6,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+c2c11c24-0913-4e10-874f-dceda9b9cb07,Kansantanssi,20360,Varusmestarintie 14,6,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+37779b5f-cfd0-4ec9-90e1-bc77a369c8e8,Berättelsetisdag,20100,Slottsgatan 2,6,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+37691e53-32f5-435b-a253-869904284d62,BeatDance,20320,Tammimäenkatu 3,7,Sports,Dance,https://www.beatdancecompany.fi/
+612a29cb-17fa-499b-973f-b1b1c7ed4250,Tuto Hockey,20700,Sepänkatu 5b,9,Sports,Hocky,https://www.tuto.fi/
+41cf26c9-63ff-4392-a6f3-1be8df70e30e,FBC Turku,20320,Niitunniskantie 18,9,Sports,Basketball,https://www.fbcturku.net/
+d73e7493-c6b5-4572-b648-8d730bc89240,4h,20460,Arkeologinkatu 4,9,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+21aab912-fb7d-40ae-a249-a97f797b32f5,4h,20320,Pirttilähteenkatu 5,9,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+ec1e6bfc-ede3-4da1-a222-5bd7c5c7f8cb,4h,20320,Pirttilähteenkatu 5,9,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
+6a5bf866-5281-44fb-8b2f-f795857be4a7,4h,20320,Pirttilähteenkatu 5,9,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
+6651f546-dbba-492d-92a8-b5c0ed46b2c3,4h,20540,Gregorius IX tie 8,9,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+61a9bf69-a716-4b11-aa8c-d95252caf914,4h,20700,Sepänkatu 3,9,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+f767c4d3-247a-4e5b-99b7-578b65500cc4,4h,20320,Pirttilähteenkatu 5,9,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+a50b47ed-1d22-4f49-b75e-433e55ddad62,4h,20700,Sepänkatu 3,9,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+c4f91ad7-4e94-4ea1-bc3c-eff42e097f17,4h,20750,Maistraatinpolku 1,9,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
+a2e35890-2df6-4ad0-a517-237aa3109e32,4h,20320,Pirttilähteenkatu 5,9,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
+7734b6dc-d389-4bdb-96d4-b8b88465f2e4,4h,20540,Gregorius IX tie 8,9,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+4fa018e0-c0cb-414e-90e9-dd7bba5f1fe2,Turun Parkour Akatemia,20100,Helsinginkatu 21,9,Sports,Parkour,https://parkourakatemia.fi/turku/
+fcd2a693-2173-4acb-8739-361416c2ae20,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+d2149ec0-a724-4756-bee4-ac532c393c33,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+17bda96e-0ede-469e-9cbf-61d9c040898f,Turun Yamatokai ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+a7cf9e79-8abe-44f9-811c-a9df6ffe82b9,Idrottsklubben Academia,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+c8ee2091-8fe4-4f9f-92da-d3c7b8114236,Turun Han Moo Do ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+83b244e9-23e6-4626-8e89-36a5335cf522,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+cec6b9c3-4f23-457d-84f4-e3ade9f5c663,Shisei ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+89080b75-5f0b-4dc1-82f4-2334ca558e61,Turun judoseura ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+b2d32c1d-425e-4cea-b66d-918d466b494c,Karate-do Shotokai,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+cf74c076-04fe-4800-8c29-a5819b54ba8f,Kyokushin Karate,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+961644a8-b48e-45f6-a04c-c2bc61b98e0b,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+026d2692-e18c-495b-970e-ed9decb1ad6e,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+47cdfcd5-1d61-41ca-8c05-b92adbb580bd,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+87e6cc9b-211d-4bd7-96ef-32eff2e792b1,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+f7d705e3-a2df-4c26-af32-4a84380019d9,Turun Hapkidoseura ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+d200c6a2-0381-471b-b19d-1cbc2d037c62,Turun Taekwondo ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+861c1193-b26b-4ab6-8353-90514927bed4,Turun Taidoseura ry,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+3a94f6a1-8246-44e8-8237-647abfa8ae80,Turun Kontaktikarateseura,20300,Raunistulantie 15,9,Sports,Sports,http://www.tkks.net/
+7fbc793c-ef47-42e2-84bf-ab22f73e32a0,Turun Teräs,20300,Raunistulantie 15,9,Sports,Sports,http://www.tute.fi/
+e502a315-37c0-408b-a45d-3920f698c704,Turun Urheiluliitto,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+bd979f8d-2882-409d-84af-da2cd397c8f7,Turun Weikot,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunweikot.fi/
+e34c3c92-a891-4626-a24e-04e2769db11d,Turun Toverit,20300,Raunistulantie 15,9,Sports,Sports,http://www.tuto.fi/
+2e27d503-5a16-4320-9603-bc94e5ae3c95,Turun Voimamiehet,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunvoimamiehet.fi/
+53fcb5d4-cb16-4e0a-a6b9-54e013d32377,Turun Atleettiklubi,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+9c6257f4-57bc-4fe1-8ffa-6a207df77feb,Pallo-kotkat,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+c8386b2d-164b-4267-a2a8-a19ce8fffafb,RC Gold Boys,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+971ac871-ac02-4f8c-a07e-d21ba0d40dac,Turun Kaiku,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+104d6323-2e5a-47b5-8ef4-2503f6943123,Turun Pallas,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+9ec387d0-8acc-458b-952a-911a866a1dcb,Turun Pyrkivä,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunpyrkiva.fi/
+27cc840a-6267-4df8-95a5-1f8eac39ebb9,Turun Toverit,20300,Raunistulantie 15,9,Sports,Sports,http://www.tuto.fi/
+314357fd-6b37-44d1-a8b9-59256302f404,Pyrkivä Gymnastics,20300,Raunistulantie 15,9,Sports,Sports,https://www.pyrkivagymnastics.fi/
+4f618c7b-429a-4d92-8959-eb97e2085610,Turun Urheiluliitto,20300,Raunistulantie 15,9,Sports,Sports,http://www.turunurheiluliitto.fi/
+7560a578-1069-4a1f-8880-6a04c4383885,FC TPS,20520,Lemminkäisenkatu 14-18 B,9,Sports,Football,https://fc.tps.fi/juniorit/
+4cdc5da6-ebfa-4596-809a-77492b92183f,HC TPS,20210,Artukaistentie 8,9,Sports,Hocky,https://www.tps-juniorit.net/
+946ec9a3-deb7-4c5f-a7de-01d5dfae45d1,Inter Aciton,20740,Lauklähteenkatu 13,9,Sports,Football,https://fcinter.fi/juniorit/joukkueiden-sivut/2016-17-syntyneet/
+8bd52714-f47f-4f2d-bbc5-a4dc84796be2,Tehoharjoittelu,20700,Turku Energia Areena,9,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+7a50700c-e845-4e4d-a3bc-a3a94095857d,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,9,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+e560cd37-4b83-4183-a4b1-19f680979a0b,Aunelan nuorisotila,20210,Opintie 1,9,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+56b901b4-f7f3-4df0-8044-b688ac951fff,Halisten nuorisotila,20540,Gregorius IX:n tie 8,9,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+a1fc3198-3923-42ef-be68-56f3d08f9c6b,Maarian nuorisotila,20460,Arkeologinkatu 4,9,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+03a13c9c-fdd8-4606-8845-08ee65e61b02,Runosmäen nuorisotila,20360,Piiparinpolku 13,9,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+61e696b0-5120-4046-a56e-7bcc33bf6803,Skanssin nuorisotila,20730,Skanssinkatu 10,9,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre/
+be0e4d9a-c99f-4f88-8b39-9686d1879fea,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,9,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+17a59afe-89bd-4515-8e98-1871c524a3cc,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja  päiväkoti,20400,Kukkamaariankatu 44,9,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+b3e4052c-b1f1-42f8-9f3a-7e614b110e96,Akvarellimaalaus,20100,Satakuntatie 10,9,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65a542d06b8b8179a66d775b
+95877a48-2649-493c-9e73-743f275caa24,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+4a7b0bf3-0f27-4cb8-83e5-2f87697d6cf2,Makramee-harrasteryhmä,20100,Satakunnantie 10,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+273251eb-9419-4b82-b101-dbb31ba27b66,Makramee-harrasteryhmä,20100,Satakunnantie 10,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+0d21e29a-b030-4a9d-ba27-740fc6669fe1,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,9,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+8b5e3d2e-def3-429c-bdc1-0a2538d08232,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,9,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+3df02380-62b9-42a8-88f0-73022777c073,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,9,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+6186cdeb-f548-4a79-81b0-116e2becd658,Marsuja ja katastrofeja -teatterillinen satutuokio kirjastoissa,20210,kirjasto,9,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65b1165c0e1724043af07685
+1c166896-78c0-4ec2-8f77-d9a0edef09a5,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+8c3cf567-89da-4b28-b1aa-c4cfc1fea55f,Harry Potter -ilta,20100,Linnankatu 2,9,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+0a1c0de6-0819-4ebb-9450-720b705edebb,Temppukoulu,20610,Talvitie 10,9,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+dedb08ce-39a3-4bb5-88e3-809c6b0c0fbb,Tuomiokirkon muskari,20500,Turun tuomiokirkko,9,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+a7cf4db2-51e6-4abb-aec9-15d757f358fb,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+4a3ce76e-09c6-4b16-8d80-21cc34a30138,Kirjastotaiteilija,20740,Lauklähteenkatu 13,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+646e17ad-521e-461a-a90c-bb417484b15d,Kansantanssi,20360,Varusmestarintie 14,9,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+23c35496-ab15-417b-97db-62a32e836c76,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,9,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+cc84f4d5-c26e-4b94-870d-b44468d4a5dd,Berättelsetisdag,20100,Slottsgatan 2,9,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+c1c182ea-e302-4bc0-8006-dea62835b555,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,9,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+d94395c3-1db5-49af-a7d5-56e57a472cc6,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,9,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+729bf942-b5b1-4b08-9740-21c691e0c4d6,BeatDance,20320,Tammimäenkatu 3,10,Sports,Dance,https://www.beatdancecompany.fi/
+12e506fc-f9fb-4225-b212-637e6bb43c48,FBC Turku,20320,Niitunniskantie 18,10,Sports,Basketball,https://www.fbcturku.net/
+68e4ff1d-53af-456c-8740-10cee49b32f6,4h,20460,Arkeologinkatu 4,10,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+15f1ba42-009d-4e6f-af64-186428e8cd71,4h,20700,Sepänkatu 3,10,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+182c84b3-0d7e-4200-b8fa-3f1d034c0cff,4h,20700,Sepänkatu 3,10,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+c93c5cb1-c20d-45f2-a600-f2bff72a6534,4h,20750,Maistraatinpolku 1,10,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
+992a83b1-dca8-4bcf-85f4-4a71ba298088,4h,20320,Pirttilähteenkatu 5,10,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+1fa31de8-8aab-44e2-8865-971a93196a63,4h,20320,Pirttilähteenkatu 5,10,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
+b068aa9f-f3ba-4341-b9af-15ab583bd888,4h,20540,Gregorius IX tie 8,10,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+f00cdc84-97fe-44a3-9ec2-123cc64aff03,4h,20320,Pirttilähteenkatu 5,10,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+baf4ccf9-1b09-4795-add4-129a8a347261,4h,20320,Pirttilähteenkatu 5,10,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
+f8bbe602-4e68-4648-acea-466985689042,4h,20540,Gregorius IX tie 8,10,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+73a5b8fa-686e-4d2d-afac-cfa18831de9c,Turun Parkour Akatemia,20100,Helsinginkatu 21,10,Sports,Parkour,https://parkourakatemia.fi/turku/
+3a77456e-3f4e-4dae-a3ef-aaa976e729f8,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+e1286a9f-d4ad-464c-b99b-089e03d62b8b,Turun Yamatokai ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+620e0042-1954-432e-a5b8-ee5259e69621,Turun Han Moo Do ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+36fcf51e-ea7d-428d-b49f-b2cafdc3c0da,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+51cdf1fa-fd9f-44ce-8e93-50487c509888,Shisei ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+e9f6ac05-8b57-4abc-b404-ac95432c551b,Turun judoseura ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+22e54f91-0d8b-4140-bd27-c769f6fe5864,Karate-do Shotokai,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+fabaa812-320b-4c2e-afa6-0dd127e222ad,Kyokushin Karate,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+6451c76a-f51e-4992-97e7-a5b7aa160c74,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+75c70273-0b25-4b0e-8ace-b7c457b6bd3f,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+e9abed4a-e405-4df4-8727-68754645c100,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+526b38e7-5bc1-47f6-b4e2-a714dd9043c6,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+bf6ca383-45bc-4830-b326-3d2fa3a095a3,Turun Hapkidoseura ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+bf95b904-81de-40ef-8084-54664d946bae,Turun Taekwondo ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+734919ba-3d90-434f-87b9-806cb0019a5b,Turun Taidoseura ry,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+27fcea11-2a89-4838-b7f9-936b3339024f,Turun Kontaktikarateseura,20300,Raunistulantie 15,10,Sports,Sports,http://www.tkks.net/
+ff55e9bb-043a-4f52-b80e-fd6ab149291b,Turun Teräs,20300,Raunistulantie 15,10,Sports,Sports,http://www.tute.fi/
+85805f91-e7f7-4e8c-903a-463a10d50adf,Turun Urheiluliitto,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+a32a8af3-a956-456b-9d42-9f6b84727e72,Turun Weikot,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunweikot.fi/
+5ede8a78-0650-45fa-8d96-f4e32bea6c53,Turun Toverit,20300,Raunistulantie 15,10,Sports,Sports,http://www.tuto.fi/
+c3749390-2b55-4347-aa6b-0f1bd6a135d0,Turun Voimamiehet,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunvoimamiehet.fi/
+381a1bb3-482e-43dc-b4d8-945b8fe5e5f0,Turun Atleettiklubi,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+06a3ba60-96db-4bd9-96b8-be7cda84a404,Pallo-kotkat,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+9a992d3d-94ab-4e83-a78e-f8fc2fe6c801,RC Gold Boys,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+e99b6610-22f7-45cb-a20c-d8e15adf42c7,Turun Kaiku,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+07a0e774-8020-49f0-9761-43514b5b22da,Turun Pallas,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+4ed24d1b-3713-45f0-b29f-ad15d32bd53f,Turun Pyrkivä,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunpyrkiva.fi/
+9c409bc2-1eee-48af-9a5f-e940ed1648e3,Turun Toverit,20300,Raunistulantie 15,10,Sports,Sports,http://www.tuto.fi/
+7c9e565c-8da2-4f63-ae1c-dfd2f90dd349,Pyrkivä Gymnastics,20300,Raunistulantie 15,10,Sports,Sports,https://www.pyrkivagymnastics.fi/
+6f410e9e-b46d-4f43-94c3-6e4e9db9a8fb,Turun Urheiluliitto,20300,Raunistulantie 15,10,Sports,Sports,http://www.turunurheiluliitto.fi/
+e823320c-590a-4e13-95ec-4ee9b42c3b17,HC TPS,20210,Artukaistentie 8,10,Sports,Hocky,https://www.tps-juniorit.net/
+69d4b09b-16a4-40cf-8343-7bc3e9f226b9,Inter Aciton,20740,Lauklähteenkatu 13,10,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+370c1ad1-3326-4efd-9004-3d40692b1144,Tehoharjoittelu,20700,Turku Energia Areena,10,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+c5e3676b-5e33-42b5-85db-eab1a2663d68,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,10,Handcraft,Handmade,https://www.turku.fi/vimma/
+40f08201-1af2-46ab-86e6-3c7a797ac7d7,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,10,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+cb01878a-58d3-4c99-8808-c58c1dd24d56,Aunelan nuorisotila,20210,Opintie 1,10,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+c6b749b9-01eb-4e04-b681-f0931ffec17a,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,10,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
+2b6a9ae5-5028-498c-8c66-e5ea34d3a67c,Halisten nuorisotila,20540,Gregorius IX:n tie 8,10,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+bc8e0e2b-aa81-4f87-a20e-3ec9a83da7d1,Maarian nuorisotila,20460,Arkeologinkatu 4,10,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+ace5cc66-6254-4288-a897-dd4020a50dec,Nuorisotila Pastell,20100,Humalistonkatu 7 B,10,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
+c49e7f05-1b32-4cb2-8443-bf07bd441e41,Pansion nuorisotila,20240,Pernontie 16 rakennus B,10,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
+e4caff97-f4b6-4ca9-9302-59b56c68dce6,Runosmäen nuorisotila,20360,Piiparinpolku 13,10,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+0dd7a507-e72d-4766-9449-abad0b2e2dcb,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,10,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+131e5069-23d5-4372-8b90-19f4607c76ab,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,10,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre/
+b084851d-1710-42dd-ac8c-78a5ff5a4455,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,10,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+44498034-a6c7-465f-b61d-3c86a35f17d5,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,10,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
+13a85464-a070-49ce-b5eb-d737bc0a2f28,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+e3d80066-7ae1-462d-bfe8-51358ffaef40,Makramee-harrasteryhmä,20100,Satakunnantie 10,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+838097be-fba8-4156-b16e-5214d76d46b7,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
+20b762fb-5e20-4bf3-8a58-eac5997ebf0d,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,10,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+4890eb28-2571-4294-aa46-294fd87ec39c,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
+f29049de-a734-45bf-86cc-5cb927e377c0,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,10,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+18529bb9-c088-4969-9208-1369a9736494,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,10,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
+d6b71aca-d786-4eba-a51e-9c1f6d1b30fa,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,10,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+93cb7f21-dab1-4b81-91cc-1a49d69edb44,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,10,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
+c3478019-b94f-4219-85e7-2e85c5a35f7b,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+9298b309-5c88-4a5a-a75c-90e44033d3c0,Harry Potter -ilta,20100,Linnankatu 2,10,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+8045df90-d8b1-4893-b548-077fd5d2b586,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,10,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
+74b50719-639c-4912-83a2-84864fc97b1d,Tuomiokirkon muskari,20500,Turun tuomiokirkko,10,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+48434e72-661b-41df-a001-7a36ce16cc2d,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+6d7dd37f-acd0-423c-97b8-aa55cd47bb4a,Kirjastotaiteilija,20740,Lauklähteenkatu 13,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+2ba43aff-b532-457c-8873-90fd00ebbd11,Unga poeters sällskap,20100,Slottsgatan 2,10,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
+3e998d0f-7089-4cbe-b32f-96009e5e6f34,Kansantanssi,20360,Varusmestarintie 14,10,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+6fa8803b-e15e-4c84-8051-0f89772660c3,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,10,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+2b664989-097a-4f5e-91c0-dd0f8a124a8a,Berättelsetisdag,20100,Slottsgatan 2,10,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+7b348dec-ff3d-43b0-975c-61a3da32d561,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,10,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+dd806fb5-31ba-4ce5-a182-278a8d2484b0,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,10,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+8c890dba-07b9-48d6-baef-7320f0d7a522,tiedekoulu,20100,Lonttistentie 9C 20100,10,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
+0faf2716-f85b-4a78-9c93-f5647d80ca43,BeatDance,20320,Tammimäenkatu 3,11,Sports,Dance,https://www.beatdancecompany.fi/
+9b912f11-8c0d-4a72-b3aa-e19b9ea07e82,Tuto Hockey,20700,Sepänkatu 5b,11,Sports,Hocky,https://www.tuto.fi/
+b6b8e60b-b04d-46bc-85da-49a776195592,FBC Turku,20320,Niitunniskantie 18,11,Sports,Basketball,https://www.fbcturku.net/
+e061f07d-cdb8-4eb8-acf8-ff265a36dd35,4h,20460,Arkeologinkatu 4,11,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+4c1ef416-8fad-431c-9e31-b4b157f18ab7,4h,20320,Pirttilähteenkatu 5,11,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+fbd6a551-c102-4217-9f2a-23751c0ff109,4h,20320,Pirttilähteenkatu 5,11,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
+692ba4aa-558d-4f9e-b7ff-1cbfc702ef5a,4h,20320,Pirttilähteenkatu 5,11,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
+3a646641-4eb1-41bc-b6dc-3dfc66cd26cf,4h,20540,Gregorius IX tie 8,11,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+ba998dc8-d14d-4f26-a36d-46d9dcdb35ac,4h,20700,Sepänkatu 3,11,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+3ba6d618-0eb8-4707-8124-a3a9562a9e2a,4h,20320,Pirttilähteenkatu 5,11,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+589e76c9-fde8-424f-b0c3-ee15985e4c93,4h,20700,Sepänkatu 3,11,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+4cd3c365-8b20-4e9e-baa4-d013ccb88b2f,4h,20750,Maistraatinpolku 1,11,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
+70327b5a-ac25-4b5f-97a0-86a5caeb1899,4h,20320,Pirttilähteenkatu 5,11,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
+85adce61-1132-4b9e-9101-cf7b5f319595,4h,20540,Gregorius IX tie 8,11,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+51714dc8-b425-4fe9-bd60-393cb8c9fd21,Turun Parkour Akatemia,20100,Helsinginkatu 21,11,Sports,Parkour,https://parkourakatemia.fi/turku/
+2a431944-fda5-4d57-b1cb-8dd2f3d25c66,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+385eb89e-985b-489c-8d78-21ec02e21755,Turun Yamatokai ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+1d15b9c9-19c0-411c-b1ef-c4c6d60f6054,Turun Han Moo Do ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+17b21042-4d6a-4d41-a777-ddecf1e02c36,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+71f6038c-28f0-4dc6-81f5-1cab62c3c291,Shisei ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+4a565e94-925b-4988-9886-26c3fd8b47d7,Turun judoseura ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+59c9d2f0-53ca-40c5-b534-cabfc6190c98,Karate-do Shotokai,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+3433e323-bd12-4f2f-8190-10d7cf21ec42,Kyokushin Karate,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+f4ef8853-89ce-4127-8789-e569ae67e663,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+fd705550-78d8-42b1-b051-175464d21dac,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+6ab173da-388f-47da-9367-898055fa1028,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+6140eeba-212a-4a51-ad0f-0902856ea304,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+5b2c598d-e160-421c-9aaf-6bf2bc28b6c7,Turun Hapkidoseura ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+ed84a375-556e-4239-9d3e-c7d68fb317d5,Turun Taekwondo ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+13bbd874-7787-406a-9d2f-1bc5dcb29290,Turun Taidoseura ry,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+a2282e06-445c-4914-8cd4-ed21958138eb,Turun Kontaktikarateseura,20300,Raunistulantie 15,11,Sports,Sports,http://www.tkks.net/
+c35c1905-4c29-4424-93b1-521ae8f69539,Turun Teräs,20300,Raunistulantie 15,11,Sports,Sports,http://www.tute.fi/
+6a2b968a-2c7e-4f78-b57d-58b0fe6e9cad,Turun Urheiluliitto,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+a8be22ca-3204-46ba-8224-2de83f8d6ca2,Turun Weikot,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunweikot.fi/
+e81ae5a2-2ae7-4793-a6d8-2d994d62664c,Turun Toverit,20300,Raunistulantie 15,11,Sports,Sports,http://www.tuto.fi/
+34e22f71-3a08-4293-aecb-35479f979f43,Turun Voimamiehet,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunvoimamiehet.fi/
+7cef5388-2eda-4b3d-9412-8de41e676bdd,Turun Atleettiklubi,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+274afb20-9961-45e8-8195-456cbcd5de70,Pallo-kotkat,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+f7550969-9808-4b2b-833c-2af63941332d,RC Gold Boys,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+52c145ae-03b3-44f8-86a2-9b64d08d2694,Turun Kaiku,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+49bc8d09-005f-49b5-b8a2-611209cc6fa5,Turun Pallas,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+55134614-af32-4d44-9f9a-8739893400f5,Turun Pyrkivä,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunpyrkiva.fi/
+48a5e014-432a-4c3c-bb9e-17d7189f9d9f,Turun Toverit,20300,Raunistulantie 15,11,Sports,Sports,http://www.tuto.fi/
+d4142c3c-5534-420f-9083-c5940ef3d990,Pyrkivä Gymnastics,20300,Raunistulantie 15,11,Sports,Sports,https://www.pyrkivagymnastics.fi/
+dcbda662-c132-42be-9f89-99157b367bfa,Turun Urheiluliitto,20300,Raunistulantie 15,11,Sports,Sports,http://www.turunurheiluliitto.fi/
+9eaee5a2-2624-4b4c-9d0c-0b8c4166aa5c,HC TPS,20210,Artukaistentie 8,11,Sports,Hocky,https://www.tps-juniorit.net/
+6f7d66b1-96c8-4e42-8c1c-c13360d24dff,Inter Aciton,20740,Lauklähteenkatu 13,11,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+e29cde17-5dc6-4201-af7b-3e91a1fac016,Tehoharjoittelu,20700,Turku Energia Areena,11,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+13c34863-a135-48a6-bbd7-cca3deb238c8,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,11,Handcraft,Handmade,https://www.turku.fi/vimma/
+5f093a8c-b2d3-45e7-a212-6951ee2bb2cd,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,11,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+35e165c0-f8d1-439b-95ec-a7b1baa8d150,Aunelan nuorisotila,20210,Opintie 1,11,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+defcbd0e-ce23-4c6a-8a9f-5a661e563475,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,11,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
+92154d0e-e341-42e1-8364-9b704c44b5da,Halisten nuorisotila,20540,Gregorius IX:n tie 8,11,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+c52232b2-6ccf-449d-9031-1434f8bfc2d3,Maarian nuorisotila,20460,Arkeologinkatu 4,11,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+e0adad16-49b3-487f-80af-55ed3d7130be,Nuorisotila Pastell,20100,Humalistonkatu 7 B,11,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
+7486f351-f98b-4fb1-b62d-7c93fa5a65cc,Pansion nuorisotila,20240,Pernontie 16 rakennus B,11,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
+fc6cc78d-f7fd-473f-9eb2-6d62d189df5a,Runosmäen nuorisotila,20360,Piiparinpolku 13,11,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+aaa102c1-a8fa-43a0-8357-1761ec4a12d7,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,11,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+c56f547a-8a5c-4f1b-a620-90c435788e20,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,11,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre/
+f9e01cce-aafb-46b0-ab3a-06ea629fd7d3,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,11,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+0bb1d0d4-2a24-418b-92f9-393d574e8e46,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,11,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
+162fbc24-7fc4-45d6-aa4d-86def3ec8f74,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+f7f7cc32-3f6c-4a91-a131-a91ab0eeea04,Makramee-harrasteryhmä,20100,Satakunnantie 10,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+d9cd2e14-73d8-425b-886c-d649b4e91e8f,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
+c9c71455-7066-4969-979a-15aad468d744,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,11,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+55b42b69-48bd-4658-8bce-6f99a5d42585,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
+1fb3a41d-f613-4c4b-8e67-eab4ed1adc5e,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,11,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+a0df54da-00b0-4eb3-95f0-74f958965aa0,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,11,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
+c0f8cfed-5c68-4acf-8b42-f8c922550cac,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,11,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+0aec0894-2e3d-4de0-b0ee-e8e724b6b2f8,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,11,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
+d973547f-313e-48f8-80a5-82adcb7d0e4c,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+cfc4c45d-1349-4eac-9523-16c3dcc0406a,Harry Potter -ilta,20100,Linnankatu 2,11,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+16b8092a-49d6-46e3-b8dc-979f2ef22fcd,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,11,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
+b5a21d45-e488-438f-88be-c452cdcfb234,Tuomiokirkon muskari,20500,Turun tuomiokirkko,11,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+1b545a1c-49a3-4ba7-b35b-95f929efebb8,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+16ae6a74-f68d-4c69-a39b-299b965b637d,Kirjastotaiteilija,20740,Lauklähteenkatu 13,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+efc1ef61-30ec-4cf4-a00f-7ff8c4660dcd,Unga poeters sällskap,20100,Slottsgatan 2,11,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
+ed0e19a5-afb9-4c09-a894-daee3e17042d,Kansantanssi,20360,Varusmestarintie 14,11,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+45cad4f1-23d3-4990-8b8e-e6e75a76388f,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,11,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+be34126d-0283-4851-bdb6-6efe46a2ca3b,Berättelsetisdag,20100,Slottsgatan 2,11,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+ed3e3b95-cec8-4f76-87a8-4dba1a48116a,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,11,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+97c40217-c017-4263-b537-a19dcf7e1611,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,11,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+1a887eb6-48ea-4e50-b268-d68333785b76,tiedekoulu,20100,Lonttistentie 9C 20100,11,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
+f37444b3-b690-4a37-a3ff-1d1ebe2fbea3,BeatDance,20320,Tammimäenkatu 3,12,Sports,Dance,https://www.beatdancecompany.fi/
+ad3530b5-3d58-42d3-a5fa-39655135018a,Tuto Hockey,20700,Sepänkatu 5b,12,Sports,Hocky,https://www.tuto.fi/
+fbb2f70b-6dc0-413e-af74-5eec556a2545,FBC Turku,20320,Niitunniskantie 18,12,Sports,Basketball,https://www.fbcturku.net/
+d8f2ba32-76e9-403b-8bb1-09bd8d3b238e,4h,20460,Arkeologinkatu 4,12,Sports,Sports,https://turku.4h.fi/kerhot/jakarlan-4h-kerho/
+c5837399-0acd-442a-8f1c-18e722258ebd,4h,20320,Pirttilähteenkatu 5,12,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+20fa3fbe-0d5b-4130-839a-6296d971524c,4h,20320,Pirttilähteenkatu 5,12,Handcraft,woodwork,https://turku.4h.fi/kerhot/kassakerho-kovat-materiaalit/
+1fff4421-5bef-487d-a3ae-e89b98ef89a0,4h,20320,Pirttilähteenkatu 5,12,Art,gardener,https://turku.4h.fi/kerhot/sormet-multaan-kerho/
+6a5b1a8f-5eb8-4274-af65-5a176a6008dd,4h,20540,Gregorius IX tie 8,12,Art,drawing,https://turku.4h.fi/kerhot/halisten-kuviskerho/
+901443d2-a0f4-4247-bfea-ba235375fd9c,4h,20700,Sepänkatu 3,12,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+591c5f70-befa-4477-b326-41e07b3a4488,4h,20320,Pirttilähteenkatu 5,12,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+e9120fe0-1bef-464a-8bb6-b2c4183e01d9,4h,20700,Sepänkatu 3,12,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+bfd5e3f7-8f18-400b-8ad6-9d5248ce3171,4h,20750,Maistraatinpolku 1,12,Art,Art,https://turku.4h.fi/kerhot/lausteen-4h-kerho/
+3c9c6563-3de0-47cd-8157-5dd4b6a78618,4h,20320,Pirttilähteenkatu 5,12,Handcraft,culinary,https://turku.4h.fi/kerhot/ruohonpaan-kokkikerho/
+1fc633cb-8b86-419a-94de-bbf1b6b359c2,4h,20540,Gregorius IX tie 8,12,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+b09ca012-fbb9-4bfc-8b6a-7e3e8357d75c,Turun Parkour Akatemia,20100,Helsinginkatu 21,12,Sports,Parkour,https://parkourakatemia.fi/turku/
+1ed81123-f5a7-48f7-952a-809de15d97a0,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+69497e0a-081c-4020-b532-79c96229a994,Turun Yamatokai ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+143ef5cf-7789-474a-8707-dc9caffbe700,Turun Han Moo Do ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+bf54a028-1153-4003-b6c2-12e363339c5d,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+56053f61-6910-47ef-bf6d-414f38fb1f2e,Shisei ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+6f276b66-0a60-4a83-a3ba-cd73b07f1c6b,Turun judoseura ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+edb1514c-ea86-4972-9a66-9f8548be63e5,Karate-do Shotokai,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+97a30d06-76b5-4fea-871f-d62db986daed,Kyokushin Karate,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+029e426e-64b1-4639-82aa-22e5c24a2bcc,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+b5c1840c-b626-40ad-a725-6f1377566fe9,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+dc279c75-737e-4836-87df-abb8c169c942,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+583bdc66-a73a-4f62-bd47-f66c752261bb,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+5c7c0539-1506-44b8-a85c-5b16ff74743c,Turun Hapkidoseura ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+833aead7-d1f9-465d-acb4-86420f96e111,Turun Taekwondo ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+68c15440-7f65-45a7-a262-8eea67433898,Turun Taidoseura ry,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+87f95141-6221-4758-8822-f6bb52f0d87e,Turun Kontaktikarateseura,20300,Raunistulantie 15,12,Sports,Sports,http://www.tkks.net/
+6862987d-8c77-4634-a3d7-b37f467b745c,Turun Teräs,20300,Raunistulantie 15,12,Sports,Sports,http://www.tute.fi/
+b6f97169-0385-4048-a680-b7fd79a3ee9f,Turun Urheiluliitto,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+167c68e0-a109-4156-9b37-0c1b1514127c,Turun Weikot,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunweikot.fi/
+c54a3547-79e9-407d-91d9-4ad538d4f1bb,Turun Toverit,20300,Raunistulantie 15,12,Sports,Sports,http://www.tuto.fi/
+95d349ac-6127-47b9-b04f-992eae8fe52c,Turun Voimamiehet,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunvoimamiehet.fi/
+617bb00c-135e-4610-9259-40f35a56eeb5,Turun Atleettiklubi,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+ad6a2664-13e9-4659-8518-2053187b6486,Pallo-kotkat,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+a715df84-2b20-4210-88fa-65a3e08174fc,RC Gold Boys,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+8591dd20-584b-4846-aa28-294c63458add,Turun Kaiku,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+eb356e79-aa9b-48da-9819-44f372bc437c,Turun Pallas,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+739944b8-c830-46d7-a78a-4c31c25e79f8,Turun Pyrkivä,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunpyrkiva.fi/
+aa5a4ab0-f907-4a08-85ea-acc942c1e7dc,Turun Toverit,20300,Raunistulantie 15,12,Sports,Sports,http://www.tuto.fi/
+aebf7b94-9a1f-47bf-b62a-18f8f177c540,Pyrkivä Gymnastics,20300,Raunistulantie 15,12,Sports,Sports,https://www.pyrkivagymnastics.fi/
+9f470c6a-1965-4067-9a8b-668b0808f103,Turun Urheiluliitto,20300,Raunistulantie 15,12,Sports,Sports,http://www.turunurheiluliitto.fi/
+990b9d0d-e1ee-4842-8c90-e922e90dd990,HC TPS,20210,Artukaistentie 8,12,Sports,Hocky,https://www.tps-juniorit.net/
+15e8ef3d-1ec0-4d56-91d5-8c1a9fc2f062,Inter Aciton,20740,Lauklähteenkatu 13,12,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+f7c0c2f8-1d3c-453a-b20b-7719f3615677,Tehoharjoittelu,20700,Turku Energia Areena,12,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+58de760e-a2eb-462c-89a4-fb8f73c2e3fd,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,12,Handcraft,Handmade,https://www.turku.fi/vimma/
+40b06a7c-789f-4706-baf2-0c0893325ba0,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,12,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+34e1a1ac-dc74-4adf-9bb1-b5439d0c2b7c,Aunelan nuorisotila,20210,Opintie 1,12,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+6fbf74ee-245a-4883-a8cc-94fa5a50c77f,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,12,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
+c233580a-90f2-4150-8b85-639132ca981b,Halisten nuorisotila,20540,Gregorius IX:n tie 8,12,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+f2637033-de35-4a9b-abe4-899257bb1b4e,Maarian nuorisotila,20460,Arkeologinkatu 4,12,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+ac2ece25-639d-4dd3-839d-75c5784a3b19,Nuorisotila Pastell,20100,Humalistonkatu 7 B,12,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
+f9a09565-f2ea-4125-8ce0-2814f4ee5c6f,Pansion nuorisotila,20240,Pernontie 16 rakennus B,12,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
+a3b61429-c271-41aa-be37-8e08ff7b1f09,Runosmäen nuorisotila,20360,Piiparinpolku 13,12,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+8f9e97cd-1478-4b9c-b128-89ee38426590,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,12,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+a586c0bd-15b4-413f-9407-598fd3412643,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,12,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre/
+81cb8071-0479-41ff-9902-a215e3ea1087,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,12,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+f0b05e74-6717-445d-ab80-dd1e4355940d,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,12,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
+d780e57e-0126-461f-be73-10502d41e75a,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+c99ea8c2-432c-4219-9f0a-3a4031658b90,Makramee-harrasteryhmä,20100,Satakunnantie 10,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+6d8280b8-dcba-4899-a2cf-95a9a5b21a2b,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
+ccb464b1-b25a-4ee1-bf92-1039b119c186,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,12,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+c72900fa-5568-4d3c-b9f3-1ee7e21eb70f,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
+4901fff8-a64d-4952-87aa-5c21b13323c5,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,12,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+25d51c3c-0d1a-4817-85ad-29d84eb9439f,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,12,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
+9797b805-0432-41b7-adb1-439561deefb1,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,12,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+e2a6052c-752c-46f9-bf86-0110e2821340,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,12,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
+68d4d53d-b46e-4c84-95a6-ef89cbc24254,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+715afb0f-ed6c-47d8-96d7-685611ea68e3,Harry Potter -ilta,20100,Linnankatu 2,12,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+6ded2797-d956-428b-8200-6592fdda4cdd,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,12,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
+36ffa66f-c086-4053-8701-5d62bb77cdfc,Tuomiokirkon muskari,20500,Turun tuomiokirkko,12,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+523e594b-ba80-4295-bef7-f20e8c020a99,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+b6f9b983-8427-4064-b6f5-cae7a7ed046e,Kirjastotaiteilija,20740,Lauklähteenkatu 13,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+8755acdb-1a36-4f27-8184-a2195d4b80d0,Unga poeters sällskap,20100,Slottsgatan 2,12,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
+ccfed346-f4b1-4a1b-90f8-def3fc992843,Kansantanssi,20360,Varusmestarintie 14,12,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+66a5f6be-5184-44b4-ae79-44310d36401c,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,12,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+11ee4937-a0b5-4280-a28e-3843a07246e3,Berättelsetisdag,20100,Slottsgatan 2,12,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+e2a7ba25-2b8c-4bcd-b95b-689a32f5b5ba,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,12,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+906e0586-cf56-49bd-9bfa-282c922819eb,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,12,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+79f23da5-dc00-44a0-bee3-34ad6e089f2c,tiedekoulu,20100,Lonttistentie 9C 20100,12,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
+4b7557d7-108c-4899-b6ee-2df25f6d6654,BeatDance,20320,Tammimäenkatu 3,13,Sports,Dance,https://www.beatdancecompany.fi/
+7447913a-d629-4780-9c30-2878f67a3da3,BeatDance,20320,Tammimäenkatu 3,14,Sports,Dance,https://www.beatdancecompany.fi/
+6a34929b-1bb2-4749-8ea4-ba6e30e480e0,Tuto Hockey,20700,Sepänkatu 5b,13,Sports,Hocky,https://www.tuto.fi/
+676e8fc9-7c8d-40e4-9741-d89b04ed5818,Tuto Hockey,20700,Sepänkatu 5b,14,Sports,Hocky,https://www.tuto.fi/
+52676b23-4832-44c4-a3ba-04e118a5ad57,FBC Turku,20320,Niitunniskantie 18,13,Sports,Basketball,https://www.fbcturku.net/
+47afcd43-6e49-4423-a9f5-e66701739190,FBC Turku,20320,Niitunniskantie 18,14,Sports,Basketball,https://www.fbcturku.net/
+e0eb0854-da86-4382-b750-5af94979ab8f,4h,20320,Pirttilähteenkatu 5,13,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+c1bef2b7-1b85-4753-8a89-24df4c3739ef,4h,20700,Sepänkatu 3,13,Art,photo club,https://turku.4h.fi/kerhot/kuvataidekerho/
+b9dd1098-a75b-4ab4-9210-4957d42260de,4h,20320,Pirttilähteenkatu 5,13,Art,manga club,https://turku.4h.fi/kerhot/manga-kuviskerho/
+b11dea79-199c-4974-9713-9d20219ecdc2,4h,20700,Sepänkatu 3,13,Handcraft,culinary,https://turku.4h.fi/kerhot/mArtin-kokkikerho/
+7a3788a5-e13e-4ba4-b22a-daa3c4e7a41a,4h,20540,Gregorius IX tie 8,13,Handcraft,culinary,https://turku.4h.fi/kerhot/halisten-kokkikerho/
+ca6d2e71-8b8c-49ef-9ba1-5ba755908a89,Turun Parkour Akatemia,20100,Helsinginkatu 21,13,Sports,Parkour,https://parkourakatemia.fi/turku/
+af93e5e1-3dd0-49a0-a1d5-611507bbabbd,Turun Parkour Akatemia,20100,Helsinginkatu 21,14,Sports,Parkour,https://parkourakatemia.fi/turku/
+1d0c451b-ab41-4d63-86ff-84d14b1da939,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+880aed48-9dc6-4afc-982c-3faf5ede2829,Aikido Dojo Turku ry,20300,Raunistulantie 15 ,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+0942838a-e6dc-49ed-9f4c-3b0af75e3272,Turun Yamatokai ry,20300,Raunistulantie 15,16,Sports,Sports,http://www.turunurheiluliitto.fi/
+d9623c45-f7f6-42c5-8c08-4598b317c90e,Turun Yamatokai ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+77072cfc-7294-41e4-a88d-61ae4b4f1bec,Idrottsklubben Academia,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+69b09a72-1a6f-455f-82aa-af1ad2dd96f1,Idrottsklubben Academia,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+2ff7cca3-fa58-473c-ac0e-961a7a16ddf0,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+099efe0b-afe4-4ee1-a62b-4788da3bd26a,Shisei ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+9edb9be5-02df-49b7-8dd8-c7519195c8f1,Turun judoseura ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+96b0a492-7c9e-4afa-a8b9-f91fde9e95b6,Karate-do Shotokai,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+9bb4cbff-4c16-4618-ab35-868eb82ba939,Kyokushin Karate,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+6ca94d6f-b76e-4e4f-b15b-3bd3c152382d,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+cd3e29d9-f0c0-4e73-8518-8b7d7eeb4f76,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+7d810ce5-9cfa-4741-beb3-b8331433e482,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+4e9da14b-3f4d-4ea1-8f1a-657e66d44096,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+6ddf1162-0ad6-406e-addb-ce64c4f058be,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+571d0033-ecfa-4dc8-97c6-2c0bfc029bf2,Shisei ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+45700104-76f7-4b21-857b-8aaed919d089,Turun judoseura ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+448965eb-0090-418a-aafb-25baffa1f061,Karate-do Shotokai,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+3eee81ed-fe1e-4f77-8846-3e8c6766887d,Kyokushin Karate,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+b554f998-54c9-4929-bfd0-29306c2fda2b,Choy Lee Fut Kung Fu Turku ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+51e3a01c-1b6c-45b6-81c8-832f870357be,Shaolin Kung Fu - Turun Wushu Kungfu Seura ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+2584a55d-9c55-45f7-a855-b8e2796b6ce0,Tang Lang - Turun Tang Lang Quan,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+92289bcc-9aeb-4900-b3b8-2a0cedd98d04,Gladiator Turku Judo-Samboseura ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+01ce44b7-a130-4654-b45a-dbceda11c65a,Turun Hapkidoseura ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+7170d248-5ac3-4523-be80-31696ca6df2e,Turun Taekwondo ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+b1379f0d-0b8a-4d08-9e87-98406ad95e77,Turun Taidoseura ry,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+4f526a9a-a993-495f-bc20-506c4d1b5ad0,Turun Hapkidoseura ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+6a06e5ae-2c78-44c3-b2e1-4003a0133294,Turun Taekwondo ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+13cc8cd0-96bc-45fe-8764-6c1790cd84ce,Turun Taidoseura ry,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+12ba648b-83a0-447f-a362-c89a284cf222,Turun Kontaktikarateseura,20300,Raunistulantie 15,13,Sports,Sports,http://www.tkks.net/
+fbe793f0-5c10-457c-a65d-3cd223a6672b,Turun Kontaktikarateseura,20300,Raunistulantie 15,14,Sports,Sports,http://www.tkks.net/
+a5c728a1-2808-4aa0-93aa-57de76cba44b,Turun Teräs,20300,Raunistulantie 15,13,Sports,Sports,http://www.tute.fi/
+0c8dd589-0ee1-4bf7-b626-715fbbb7dc05,Turun Urheiluliitto,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+51817da1-90e4-4c7b-b51d-927aa0fda465,Turun Weikot,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunweikot.fi/
+8514555d-c1c5-4f62-856b-6f8c4300bacf,Turun Toverit,20300,Raunistulantie 15,13,Sports,Sports,http://www.tuto.fi/
+b53df0f0-1c69-403e-9f78-8e5599844c46,Turun Voimamiehet,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunvoimamiehet.fi/
+d6f1dd32-8cc7-483b-9166-0df6a788e5ea,Turun Atleettiklubi,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+8154c18b-78f6-4955-bbb0-0b313ac7eb5e,Pallo-kotkat,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+dd6ed746-1ae0-4040-aeaa-40f0cfffe130,RC Gold Boys,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+5d1514a7-8c59-4289-bfc7-c8ce5e4f411b,Turun Kaiku,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+d3392947-db85-4639-bf7a-9f597854de3e,Turun Pallas,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+a3a174d9-9cad-4ebc-bbfc-caeda12ed892,Turun Pyrkivä,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunpyrkiva.fi/
+8633894c-62b0-4d0f-a609-083dbb034e9a,Turun Toverit,20300,Raunistulantie 15,13,Sports,Sports,http://www.tuto.fi/
+c55da5be-506e-469b-80a7-35e493781715,Pyrkivä Gymnastics,20300,Raunistulantie 15,13,Sports,Sports,https://www.pyrkivagymnastics.fi/
+e4642378-f8b7-4b62-85e5-ba8f36bad469,Turun Urheiluliitto,20300,Raunistulantie 15,13,Sports,Sports,http://www.turunurheiluliitto.fi/
+0ff64fe7-b411-4389-8f87-30f6e7493f5f,VIMMA,20100,Aurakatu 16,13,Art,drawing,https://ark-lpr.fi/en/projekti/vimma-turku/
+f9145888-e196-4ce6-b2cc-4b3f382205eb,GoBabyGo,20810,Hopeasepänkuja 2,13,Sports,Sports,https://liikutaanilosta.fi/
+e61b8c3b-11f5-421b-a448-a1789a0844f1,FC TPS,20520,Lemminkäisenkatu 14-18 B,13,Sports,Football,https://fc.tps.fi/juniorit/
+3854320b-1cb4-4a4b-abb8-81227ed98a38,HC TPS,20210,Artukaistentie 8,13,Sports,Hocky,https://www.tps-juniorit.net/
+724421da-f74e-450b-90c2-08a70cae4cf2,Inter Aciton,20740,Lauklähteenkatu 13,13,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+922069f2-5058-46d4-8377-259e7a258db7,Tehoharjoittelu,20700,Turku Energia Areena,13,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+278370a3-4576-4af7-adf6-a178d7eaefbd,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,13,Handcraft,Handmade,https://www.turku.fi/vimma/
+19486d61-5427-464b-b864-4b0df75943cf,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,13,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+5409f420-89f5-423c-b4d4-a28c2cac87f1,Aunelan nuorisotila,20210,Opintie 1,13,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+8dc86996-68f6-4cc1-b93f-495544c0093d,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,13,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
+6fa22940-26c5-4672-952a-d76e3d225fe9,Halisten nuorisotila,20540,Gregorius IX:n tie 8,13,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+35c3d659-56e4-4f68-b064-c4712e155426,Hansan nuorisotila,20100,Yliopistonkatu 20,13,Sports,Youth activities,https://www.turku.fi/toimipaikat/hansan-nuorisotila/
+cff26d3f-d6b9-4d4a-a517-e2df48ec120e,Maarian nuorisotila,20460,Arkeologinkatu 4,13,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+10cea94c-ca14-4162-8abf-b8c415bc15a7,Nuorisotila Pastell,20100,Humalistonkatu 7 B,13,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
+03ac92cb-3efd-4eb9-8aef-b3cfc718c68a,Paattisten nuorisotila,21330,Paattistalonkatu 1,13,Sports,Indoor activities,https://www.turku.fi/places/paattinen-youth-centre/
+7e34dbc1-1a4b-4671-90e3-d8901f5c3612,Pansion nuorisotila,20240,Pernontie 16 rakennus B,13,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
+1519ede9-ee09-4efc-9216-5008b05872c6,Runosmäen nuorisotila,20360,Piiparinpolku 13,13,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+ca92c594-4255-4b71-9ca0-abacf775b0ac,Skanssin nuorisotila,20730,Skanssinkatu 10,13,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre/
+12e0a070-582c-430b-a4cb-7542162b38d7,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,13,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+a5c0af7d-089d-4212-9a3c-9337adc2eb76,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,13,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre/
+2a0a2c10-5f29-4a1c-b264-93e6404f20e8,Turku Game Academy,20210,Opintie 1,13,Science,Game,https://www.turku.fi/toimipaikat/turku-game-academy-pelitila-nexus/
+e5c7b1e4-ab0f-4cbe-b21c-17d8fbe84d95,Varissuon nuorisotila,20610,Kraatarinkatu 4,13,Sports,Indoor activities,https://www.turku.fi/places/varissuo
+59386314-3a26-41dc-924e-654ef588f1e9,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,13,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+bdb0ad92-aa2e-4597-8c35-b5b8ab524c66,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,13,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
+1d51169a-76d0-4341-b622-e75f16f5aa23,Akvarellimaalaus,20100,Satakuntatie 10,13,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65a542d06b8b8179a66d775b
+21edb8ad-f7d0-4933-ad9c-e5b7c2cdc632,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+e7052c6b-2ae8-4d4c-b13d-2051b44e9a6f,Makramee-harrasteryhmä,20100,Satakunnantie 10,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+266d4a23-470c-402d-b101-e28f5f171ef2,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
+5c1c52c3-4adb-46fc-9eae-0b5577442a28,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,13,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+9ea39951-a3d0-4ab8-adc4-c7bf689ece98,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
+9a07b9ab-f542-4e09-83a1-b24d0c40582d,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,13,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+0cb83ceb-63c2-42e1-ad23-549ef3828c81,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,13,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
+2a3ff3c8-0759-4f43-851c-601e6705b7dd,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,13,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+e79fd549-8bb0-417d-bc93-472f2dd7a03c,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,13,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
+536b29a0-1cdc-4baa-bbbb-1cc85a276fc7,Marsuja ja katastrofeja -teatterillinen satutuokio kirjastoissa,20210,kirjasto,13,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65b1165c0e1724043af07685
+e4319ff3-2c85-4543-8847-b28a1249cb60,Harry Potter -ilta,20100,Linnankatu 2,13,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+f04ad419-e746-4b88-b267-0e01c572756c,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,13,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
+f333526c-63bd-4953-99fc-7423f1dbd45d,Temppukoulu,20610,Talvitie 10,13,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+f8f445e9-08d0-4510-a66f-6319c7ece9ff,Temppukoulu,20240,Pernontie 29,13,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+ae7dd8fb-6656-434a-bf0b-bf1a0985d2fd,Temppukoulu,20500,Vanha Suurtori 1,13,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+468e4477-f7e4-46ff-9f39-22777ec829f2,Temppukoulu,20100,Pietari Valdin katu 14,13,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+49a33eed-61b6-41ba-bc41-d4909b0dc3b6,Tuomiokirkon muskari,20500,Turun tuomiokirkko,13,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+09d55d8b-29e9-4611-b566-f83ad641f203,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+990e6e04-f9f9-4400-bb64-955773ae4565,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,13,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
+63d84ba4-1f31-440b-aee2-070d919017a5,Kirjastotaiteilija,20740,Lauklähteenkatu 13,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+fdb8ac93-0f41-4026-be85-940b61aa9157,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,13,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+81dc1aba-6ef3-453b-a413-fdcf3864edef,Unga poeters sällskap,20100,Slottsgatan 2,13,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
+54c11844-5901-4132-8707-7e8c04ca0c17,Kansantanssi,20360,Varusmestarintie 14,13,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+a16d8e96-09b2-47b5-81c1-4e4884099be8,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,13,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+bb87f4bd-9569-4767-ad93-0e31c7e526e9,Berättelsetisdag,20100,Slottsgatan 2,13,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+cca09bc7-ac2f-4548-95aa-247b4975a272,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,13,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+52013cf3-5366-4d56-b487-75b38e991f5d,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,13,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+2ef8c5d0-7c20-4a19-a560-304aa56cb2f1,tiedekoulu,20100,Lonttistentie 9C 20100,13,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
+784d4626-ec58-4999-a12d-a50a2beba964,Turun Teräs,20300,Raunistulantie 15,14,Sports,Sports,http://www.tute.fi/
+f1ee4d3c-5105-422e-9c57-f75f48a19464,Turun Urheiluliitto,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+83170ddd-5065-47eb-83f0-b46232e36101,Turun Weikot,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunweikot.fi/
+1317ae28-39e0-4a97-bc1b-cc9f4d5edb82,Turun Toverit,20300,Raunistulantie 15,14,Sports,Sports,http://www.tuto.fi/
+c3ccbdfc-2aac-48be-bc52-75494b8af856,Turun Voimamiehet,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunvoimamiehet.fi/
+587ed469-b791-40d0-8bb5-03bfe2aaf25e,Turun Atleettiklubi,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+ffe22971-ea02-4bb3-afdb-9b942d8e0777,Pallo-kotkat,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+47bc243b-5353-47e8-96fc-cda4fbedb6fb,RC Gold Boys,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+71a20c92-9f72-480f-bc3c-e6db0f854d87,Turun Kaiku,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+600dcc0d-7d7f-4d6f-b9c0-0aebd4d619f9,Turun Pallas,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+99a9b2cb-cb87-47b0-b8a4-fd4a16c2fea7,Turun Pyrkivä,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunpyrkiva.fi/
+f9fa70dd-69c3-4c33-8355-24820820a848,Turun Toverit,20300,Raunistulantie 15,14,Sports,Sports,http://www.tuto.fi/
+0ebb2af9-34f0-460d-b897-b8fd3a90d4a0,Pyrkivä Gymnastics,20300,Raunistulantie 15,14,Sports,Sports,https://www.pyrkivagymnastics.fi/
+dc4be911-00e4-4cbb-a53c-9227eed72240,Turun Urheiluliitto,20300,Raunistulantie 15,14,Sports,Sports,http://www.turunurheiluliitto.fi/
+d5158a93-4aa1-4cc1-bda5-2ba9f590516d,VIMMA,20100,Aurakatu 16,14,Art,drawing,https://ark-lpr.fi/en/projekti/vimma-turku/
+de09e093-33d0-41d3-aff6-aab9ae2082e0,GoBabyGo,20810,Hopeasepänkuja 2,14,Sports,Sports,https://liikutaanilosta.fi/
+c683b8e2-d26e-443d-9a2b-150fab214398,FC TPS,20520,Lemminkäisenkatu 14-18 B,14,Sports,Football,https://fc.tps.fi/juniorit/
+67be4a67-a71f-4bdd-ba7a-11913959b855,HC TPS,20210,Artukaistentie 8,14,Sports,Hocky,https://www.tps-juniorit.net/
+bcd9c5dc-b386-4371-b517-895414d0231c,Inter Aciton,20740,Lauklähteenkatu 13,14,Sports,Football,https://fcinter.fi/interaction/ilpoisten-perhetapahtumat/
+530f37bb-696d-4c98-8de5-6c80b94c3342,Tehoharjoittelu,20700,Turku Energia Areena,14,Sports,Sports,https://fcinter.fi/juniorit/tehoharjoittelu/
+e4707a92-63b6-43b7-b888-f18bc5538f0d,Vimma Art and Activity Centre for Youth,20100,Aurakatu 16,14,Handcraft,Handmade,https://www.turku.fi/vimma/
+9e7b7efe-1887-4479-9198-b17d41b46d13,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,14,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+32203c41-99cb-41b1-bf06-07cdbe338d94,Aunelan nuorisotila,20210,Opintie 1,14,Sports,Indoor activities,https://www.turku.fi/toimipaikat/aunelan-monitoimitalo/
+efe5c684-3185-40bd-8bbc-eed289333f6c,Auran Panimon bändi- ja studiotila,20100,Läntinen Rantakatu 53,14,Art,Music,https://www.turku.fi/toimipaikat/auran-panimon-bandi-ja-studiotila/
+24820fba-38a7-449e-b2b0-a690f643e36c,Halisten nuorisotila,20540,Gregorius IX:n tie 8,14,Sports,Sports,https://www.turku.fi/toimipaikat/halisten-nuorisotila/
+4b5f66d1-8369-43ee-b8b4-1c16140b3dfc,Hansan nuorisotila,20100,Yliopistonkatu 20,14,Sports,Youth activities,https://www.turku.fi/toimipaikat/hansan-nuorisotila/
+4be20241-65d8-4b97-96c1-f5e4028e360d,Maarian nuorisotila,20460,Arkeologinkatu 4,14,Sports,Indoor activities,https://www.turku.fi/toimipaikat/maarian-nuorisotila/
+292bbd33-9811-49b0-981f-98302e2fa4f7,Nuorisotila Pastell,20100,Humalistonkatu 7 B,14,Sports,Indoor activities,https://www.turku.fi/places/youth-center-pastell/
+0c4defb8-5dc5-4190-84c9-08b37965d70f,Paattisten nuorisotila,21330,Paattistalonkatu 1,14,Sports,Indoor activities,https://www.turku.fi/places/paattinen-youth-centre/
+5ca7e19d-705d-481e-85dd-3dfcb85524e4,Pansion nuorisotila,20240,Pernontie 16 rakennus B,14,Sports,Indoor activities,https://www.turku.fi/places/pansio-youth-centre/
+2546cf64-8292-4b5d-a013-2d153abeb987,Runosmäen nuorisotila,20360,Piiparinpolku 13,14,Sports,Indoor activities,https://www.turku.fi/places/runosmaki-youth-centre/
+ce8bbdb7-1e24-4a79-9361-fd65377a2451,Skanssin nuorisotila,20730,Skanssinkatu 10,14,Sports,Indoor activities,https://www.turku.fi/places/skanssi-youth-centre/
+d51e11d3-0665-4129-9bb0-9bdeff51bc77,Syvälahden monitoimitalo,20900,Vanha Kakskerrantie 8,14,Sports,Sports,https://www.turku.fi/toimipaikat/syvalahden-monitoimitalo/
+eeedc568-dfad-42ce-8cbf-52f7516d1c25,Teräsrautelan nuorisotila,20320,Antreksenkuja 1,14,Sports,Indoor activities,https://www.turku.fi/places/terasrautela-youth-centre/
+18fd710f-eae8-4d30-b95c-8385c0207553,Turku Game Academy,20210,Opintie 1,14,Science,Game,https://www.turku.fi/toimipaikat/turku-game-academy-pelitila-nexus/
+7e5c08b2-4773-4ebd-b583-bfdaa2313089,Varissuon nuorisotila,20610,Kraatarinkatu 4,14,Sports,Indoor activities,https://www.turku.fi/places/varissuo
+9ab0bddf-fdaf-4d93-af2a-249f07a7a2ec,Yli-Maarian monitoimitalo Ypsilon / Yli-Maarian koulu ja päiväkoti,20400,Kukkamaariankatu 44,14,Sports,Indoor activities,https://www.turku.fi/toimipaikat/yli-maarian-monitoimitalo-ypsilon-yli-maarian-koulu
+6862d92c-83f3-4bef-9df2-998d0198db82,Skeittihalli Cube,20200,Ruissalontie 37 G-rakennus,14,Sports,Sports,https://www.turku.fi/kulttuuri-ja-liikunta/liikunta/liikuntapaikat/ulkoliikuntapaikat/skeittipaikat/skeittihalli-cube
+90023ced-7dad-480d-98bf-7b4707506536,Akvarellimaalaus,20100,Satakuntatie 10,14,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65a542d06b8b8179a66d775b
+97bdc2b3-fe35-44d9-88c2-4801864db4b4,Helppoa ja hauskaa palavirkkausta,20100,Satakunnantie 10,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a544f86b8b8179a66d7768
+1721ce57-6eb8-43ef-ba7f-af48a09b740b,Makramee-harrasteryhmä,20100,Satakunnantie 10,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65a543c6ba23357753498887
+1525e253-560e-45a0-a714-633dbcb24adc,Harrasta museossa: Savityöpaja alakoululaisille,20540,Jaanintie 45,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/6582fb9d67ddb529b670e467
+532a0bdc-1801-4729-9866-304d1a8c6019,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,14,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+45f6a94b-98ef-4b85-84cc-00ee231d039a,Taidepaja: Color lab -värilaboratorio,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65b0d19c0e1724043af075a7
+57879aab-9d78-4cc4-92e1-a0fb19f48983,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,14,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+0dcae165-a8f0-40f8-be14-ab11dcf296de,Saagan taiteilijat ja tutkijat,20100,Turun pääkirjasto Linnankatu 2,14,Art,History,https://harrastukset.turku.fi/fi-FI/page/658195fc9421865874a85e6c
+90d38150-0aaf-4b03-b4ff-c74d12058b59,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,14,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+acaa9884-1614-4723-8742-09ab96fedb7e,Harrasta museossa: Kuvataidekerho,20810,WAM Itäinen Rantakatu 38,14,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65841bb01f345d3efba7e67c
+90890c08-604f-4068-b18b-44f8ecc32602,Marsuja ja katastrofeja -teatterillinen satutuokio kirjastoissa,20210,kirjasto,14,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65b1165c0e1724043af07685
+385a03f3-fb2c-41c0-b0c6-561c6c71eb3d,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+28a1506e-f1dc-4750-84b0-3b424cf68660,Harry Potter -ilta,20100,Linnankatu 2,14,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65cc845b2f733c1b1672a129
+60ab242c-2de6-4085-9a35-ff0789caddc7,Satakielikuukausi : kaksikielinen satuhetki,20100,Turun pääkirjasto Linnankatu 2,14,Art,Show,https://harrastukset.turku.fi/fi-FI/page/65ae2319427bfb234d53a12c
+fc8324ef-6c25-4440-bac8-e5aa39a8b76d,Temppukoulu,20610,Talvitie 10,14,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+db10131b-ecb5-4295-ad97-347009e675e8,Temppukoulu,20240,Pernontie 29,14,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+f68a9b76-4045-4833-a0cd-ede8d69474ad,Temppukoulu,20500,Vanha Suurtori 1,14,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+49f6996d-482d-4267-a79e-ef3db9553c42,Temppukoulu,20100,Pietari Valdin katu 14,14,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+a482d3f9-6171-4443-8d1a-dee572faa0cb,Tuomiokirkon muskari,20500,Turun tuomiokirkko,14,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+eb975495-043e-44e3-9f0f-bde8c92031dd,Taidetyöpajat kirjastotaiteilijan kanssa,20360,Runosmäen kirjasto Piiparinpolku 13,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65af8b0c427bfb234d53a3a1
+13b19f04-7007-4bb4-b312-d8e86be6f5ae,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,14,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
+9d027125-c4bb-486e-a2ad-00c55ddc62d5,Kirjastotaiteilija,20740,Lauklähteenkatu 13,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65afb882427bfb234d53a446
+e45a4c7b-d130-4c83-a1d2-8ee60bd21e86,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,14,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+9739a2b2-8c55-4725-86ea-30d8fdf8a54f,Unga poeters sällskap,20100,Slottsgatan 2,14,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eafd6b3a38943e9c78a5a
+457a7b53-22d8-4faf-99d3-d7a889af7ef3,Kansantanssi,20360,Varusmestarintie 14,14,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+0c56b1ec-4c4e-42ce-94c5-35783d999a53,Luovat kädet,20520,Lastenkulttuurikeskus Seikkailupuisto,14,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65647d235edb2d0437b0cce1
+ba821876-2ad9-4cb8-a4b7-761f1ba3c168,Berättelsetisdag,20100,Slottsgatan 2,14,Art,Story,https://harrastukset.turku.fi/fi-FI/page/658eb416dd9fab20a94c47e9
+0aa0d4d6-fb42-4018-ab8c-c58f8bd7a2ee,Muotoilun harrastustunnit lapsille ja nuorille,20700,Taiteen talo Nunnankatu 4,14,Art,sculpture,https://harrastukset.turku.fi/fi-FI/page/65781950a63ff1043a9a2a80
+159953eb-ed37-4b96-9743-73afd0644f9b,tiedekoulu,20760,Nurminiitynkatu 1 20760 Piispanristi,14,Science,Code,https://www.tiedekoulu.fi/lukujarjestys/lukukausimaksut
+a4b1ebfd-9023-4118-9a44-524b1fe37faa,tiedekoulu,20100,Lonttistentie 9C 20100,14,Science,Robot,https://www.tiedekoulu.fi/oppimispolut/robotiikka
+25e84915-52f5-4e9f-9d68-501bf5b0975e,Go Baby Go,20100,Hopeasepänkuja 2,3,Sports,Swimming,https://liikutaanilosta.fi/
+a3ae9ea4-ab53-4cb3-bb94-434b83f06161,BeatDance,20320,Tammimäenkatu 3,4,Sports,Dance,https://www.beatdancecompany.fi/
+c2ddb6ec-d5b5-428a-a328-3c26a391bdb9,FBC Turku,20320,Niitunniskantie 18,4,Sports,Basketball,https://www.fbcturku.net/
+1079be37-de6e-4674-b037-07c3a1b4d35a,4h,20320,Pirttilähteenkatu 5,4,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+0232c4c7-8133-4085-a829-62c9fa462da6,Pyrkivä Gymnastics,20300,Raunistulantie 15,4,Sports,Sports,https://www.pyrkivagymnastics.fi/GoBabyGo
+86ad46b0-438b-4e8a-b717-8ed1782c9522,FC TPS,20520,Lemminkäisenkatu 14-18 B,4,Sports,Football,https://fc.tps.fi/juniorit/
+a34d71f6-4a12-4473-83c2-bd15d6d5fdac,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,4,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+f2599081-2734-49ef-9be3-4f1618d9bf91,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,4,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+37f9ae47-deb2-4334-afa5-c30a54ecaac6,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,4,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+f026d1ee-3629-4a45-8d16-9aca342a0e52,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,4,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+c9b570a4-3d79-4ab9-ae6a-438195e70d9f,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,4,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+69baf4a2-76c2-44d3-aeae-beaa14364f48,Temppukoulu,20500,Vanha Suurtori 1,4,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+7698d8b8-12a7-487a-822a-b442c6e0dea8,Tuomiokirkon muskari,20500,Turun tuomiokirkko,4,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+e498804c-1503-4d4d-a887-d60b056e5ace,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,4,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
+694ddf5b-7eec-44f0-a681-54ddcb6f3cce,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,4,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+8f5a0028-8e9f-4273-acce-77fad5919e2d,Kansantanssi,20360,Varusmestarintie 14,4,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246
+94495db0-7188-4096-a2b6-4f08e1573d14,BeatDance,20320,Tammimäenkatu 3,5,Sports,Dance,https://www.beatdancecompany.fi/
+b101081a-f99d-49fd-9699-9b7090e3db8f,FBC Turku,20320,Niitunniskantie 18,5,Sports,Basketball,https://www.fbcturku.net/
+3b924636-9ef3-42a7-8e6d-032f8a36d5ca,4h,20320,Pirttilähteenkatu 5,5,Handcraft,sewing,https://turku.4h.fi/kerhot/kassakerho-pehmeat-materiaalit/
+c042781d-732d-4557-a845-74f051856f1e,Pyrkivä Gymnastics,20300,Raunistulantie 15,5,Sports,Sports,https://www.pyrkivagymnastics.fi/GoBabyGo
+eaabd9a2-312b-47a3-a06d-0e5388a2f25e,FC TPS,20520,Lemminkäisenkatu 14-18 B,5,Sports,Football,https://fc.tps.fi/juniorit/
+feb93078-32a6-4481-832b-e5dfc7fea7f2,Adventure Park Seikkailupuisto,20520,Kupittaankatu 2,5,Handcraft,Handmade,https://www.turku.fi/seikkailupuisto/
+d6b5b2b8-f422-4c8c-90de-bde337a59d15,Timanttiset perhepajat,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,5,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/65b256810e1724043af07923
+647c86b6-abbb-4a0d-ae36-531d765cff25,Tarinatiistai,20100,Turun pääkirjasto Linnankatu 2,5,Art,Story,https://harrastukset.turku.fi/fi-FI/page/65818732b419b66934500b63
+5de2c270-82b1-4584-82fe-0569d041e613,TFO kirjastossa: Myyrä,20100,Turun pääkirjasto Linnankatu 2,5,Art,Story,https://harrastukset.turku.fi/fi-FI/page/6582c64e67ddb529b670e3c9
+5dad515b-e922-4dc2-82c3-09a33675634f,Noitien pääsiäinen,20520,Lastenkulttuurikeskus Seikkailupuisto Kupittaankatu 2,5,Handcraft,Handmade,https://harrastukset.turku.fi/fi-FI/page/65ccc61cce994e121c9bfc98
+906a9364-b98b-4d92-b163-1a308e5b586e,Temppukoulu,20500,Vanha Suurtori 1,5,Sports,Sports,https://harrastukset.turku.fi/fi-FI/page/6592f83f1cb1934dbe7fc8f0
+8858c2e7-d022-470b-b021-fcd96ace5aaa,Tuomiokirkon muskari,20500,Turun tuomiokirkko,5,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/65a8e2eae5f4f7047a6f54ba
+d416cdae-0586-42c1-a010-0bac145ce88c,Rytmipuu - muskari 1-3-vuotiaille C,20100,Satakunnantie 10,5,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657ebc9fb3559b7bc3869b4b
+2bc1209a-e753-4e2a-8ad5-81cf1679d3f6,Laulupuu - muskari 4-6-vuotiaille,20100,Satakunnantie 10,5,Art,Sing,https://harrastukset.turku.fi/fi-FI/page/657eba50b3559b7bc3869b46
+72385845-42d7-4c9d-8a99-2af91ada7ea6,Kansantanssi,20360,Varusmestarintie 14,5,Sports,Dance,https://harrastukset.turku.fi/fi-FI/page/65a17d51f50a1a01d3783246

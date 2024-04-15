@@ -8,18 +8,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Website</title>
   <link rel="stylesheet" href="{% static 'homepage.css' %}">
+
 </head>
 
 <body>
 
   <header class="header">
-    <img src="{% static 'images/logo.jpg' %}" alt="Logo" class="logo">
+    <img src="{% static 'images/logo3.png' %}" alt="Logo" class="logo">
     <nav>
       <ul class="navigation">
         <li><a href="{% url 'hobby_clubs:index' %}">Home</a></li>
         <li><a href="{% url 'hobby_clubs:all_clubs' %}">Clubs</a></li>
         {% if user.is_authenticated %}
-        <li class="nav-item">Hello, {{ user.username }}.
+        <li class="nav-item"><a href="{% url 'hobby_clubs:user_profile' %}">Hello, {{ user.username }}</a>
           <form action="{% url 'user_accounts:logout' %}" method="post" style="display: inline;">
             {% csrf_token %}
             <input type="submit" value="Log out"
@@ -78,7 +79,9 @@
           <select id="age" name="age">
             <option selected="selected">Select Options</option>
 
-            <option>3-5</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
             <option>6</option>
             <option>7</option>
             <option>8</option>
@@ -119,9 +122,8 @@
       </a>
     </div>
     <div class="club-category">
-      <a href="https://sites.utu.fi/luma/vapaa-ajan-tiedetoiminta/tiedekerhot/"><img
-          src="{% static 'images/science.jpg' %}" alt="Science"></a>
-      <p><a href="https://sites.utu.fi/luma/vapaa-ajan-tiedetoiminta/tiedekerhot/">Science</a></p>
+      <a href="science_clubs.html"><img src="{% static 'images/science.jpg' %}" alt="Science"></a>
+      <p><a href="science_clubs.html">Science</a></p>
     </div>
     <div class="club-category">
       <a
@@ -139,7 +141,7 @@
           src="{% static 'images/facebook.svg' %}" alt="Facebook"></a>
     </div>
     <div class="social-media">
-      <a href="https://twitter.com/ClubsKids81590" target="blank"><img src="{% static 'images/x-twitter.svg' %}"
+      <a href="https://twitter.com/TurkuClubsKids" target="blank"><img src="{% static 'images/x-twitter.svg' %}"
           alt="X"></a>
     </div>
     <div class="social-media">

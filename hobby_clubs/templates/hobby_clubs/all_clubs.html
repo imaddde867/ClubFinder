@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,22 +9,22 @@
   <style>
     /* 添加 CSS 样式 */
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Comic Sans MS', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #e2e0fd;
+      background-color: #cfcede;
     }
 
     .container {
       max-width: 900px;
       margin: auto;
       padding: 20px;
-      background-color: rgba(255, 255, 255, 0.8);
+      background-color: rgba(243, 207, 229, 0.8);
       /* 修改背景颜色以突出显示内容 */
       border-radius: 10px;
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
       /* 添加背景图 */
-      background-image: url("/static/images/tervetuloa.jpeg");
+      background-image: url("/static/images/art.jpg");
       background-size: cover;
       background-position: top;
     }
@@ -31,22 +32,35 @@
     h1 {
       text-align: center;
       margin-bottom: 30px;
-      color: #333;
+      color: #e7d9d9;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     }
 
     ul {
       list-style-type: none;
       padding: 0;
+      display: flex;
+      /* 使用 Flex 布局 */
+      flex-wrap: wrap;
+      /* 允许多行显示 */
+      justify-content: space-between;
+      /* 左右对齐 */
     }
 
     li {
-      background-color: #f0f0f0;
-      border-radius: 8px;
+      width: 45%;
+      /* 一行显示两个俱乐部，留出间距 */
+      background-color: #d1bed1;
+      border-radius: 10px;
       margin-bottom: 20px;
       padding: 20px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       position: relative;
+      transition: transform 0.3s ease;
+    }
+
+    li:hover {
+      transform: translateY(-5px);
     }
 
     .club-name {
@@ -56,26 +70,22 @@
     }
 
     .club-details {
-      position: relative;
+      margin-top: 15px;
     }
 
     .club-details p {
-      margin: 10px 0;
-      font-size: 18px;
+      margin: 8px 0;
+      font-size: 16px;
       color: #555;
     }
 
     .action-btns {
-      position: absolute;
-      top: 50%;
-      right: 100px;
-      transform: translateY(-50%);
+      margin-top: 20px;
     }
 
     .action-btn {
-      display: block;
-      margin-bottom: 10px;
-      padding: 15px 30px;
+      margin-right: 10px;
+      padding: 10px 16px;
       background-color: #d295b0;
       color: #fff;
       border: none;
@@ -83,36 +93,170 @@
       text-decoration: none;
       cursor: pointer;
       transition: background-color 0.3s ease;
-      font-size: 20px;
+      font-size: 16px;
     }
 
     .action-btn:hover {
+      background-color: #b07289;
+    }
+
+    .review-btns {
+      margin-top: 20px;
+    }
+
+    .review-btn {
+      margin-right: 10px;
+      padding: 10px 16px;
       background-color: #d295b0;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-size: 16px;
+    }
+
+    .review-btn:hover {
+      background-color: #b07289;
+    }
+
+    .club-details img {
+      width: 30px;
+    }
+
+    .modal {
+      position: fixed;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: #f9d5d5;
+      padding: 20px;
+      border-radius: 10px;
+      z-index: 1000;
+      /* 确保模态框位于其他元素之上 */
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+      height: 230px;
+    }
+
+    #reviewModal button {
+      font-family: 'Comic Sans MS';
+      width: 150px;
+      /* 宽度 */
+      font-size: 20px;
+      color: #010101
+        /* 字体大小 */
+    }
+
+    .modal-content {
+      max-width: 440px;
+      height: 400px;
+      padding-top: 20px;
+      /* 最大宽度 */
+      padding: 20px;
+      /* 内边距 */
+      margin: 0 auto;
+      position: relative;
+      /* 居中显示 */
+    }
+
+    .modal-content h2 {
+      font-size: 20px;
+      /* 调整字体大小 */
+      margin-top: 10px;
+      /* 调整上边距 */
+      margin-bottom: 10px;
+      /* 调整下边距 */
+    }
+
+    .close {
+      position: absolute;
+      /* 将关闭按钮定位为绝对位置 */
+      top: 10px;
+      /* 距离父元素顶部的距离 */
+      right: 10px;
+      /* 距离父元素右侧的距离 */
+      font-size: 24px;
+      /* 可以根据需要进一步调整关闭按钮的样式 */
+    }
+
+    #submitReviewBtn {
+      background-color: white;
+      /* 设置按钮的背景色 */
+      color: white;
+      /* 设置按钮的文字颜色 */
+      border: none;
+      /* 移除按钮的边框 */
+      border-radius: 5px;
+      /* 设置按钮的边框圆角 */
+      padding: 5px 10px;
+      /* 设置按钮的内边距 */
+      font-size: 14px;
+      /* 设置按钮的字体大小 */
+      cursor: pointer;
+      /* 将鼠标光标设置为手型 */
+      bottom: 15px;
+      /* 距离父元素底部的距离 */
+      right: 20px;
+      /* 距离父元素右侧的距离 */
+      min-width: 60px;
+      /* 设置按钮的最小宽度 */
+      min-height: 30px;
+      margin-bottom: 20px;
+      /* 设置按钮的最小高度 */
+      margin-right: 28px;
+
+    }
+
+    #reviewModal .modal-content button {
+      float: right;
+      margin-top: 10px;
+      /* 将按钮向右浮动 */
+    }
+
+    #reviewTextarea {
+      margin-right: 10px;
+      /* 添加右侧边距 */
+      vertical-align: top;
+      /* 垂直对齐至顶部 */
+    }
+
+    #reviewModal .modal-content button {
+      display: inline-block;
+      /* 设置为行内块元素 */
+      vertical-align: top;
+      /* 垂直对齐至顶部 */
     }
   </style>
+
+
+
+
 </head>
 
 <body>
   <div class="container">
-    <h1>All Clubs</h1>
+    <h1>Discover all kids' clubs in Turku area right here!</h1>
     <ul>
       {% for club in clubs %}
       <li>
-        <div class="club-name">{{ club.Club_Name }}</div>
+        <div class="club-name">{{ club.club_Name }}</div>
         <div class="club-details">
-          <p>Postal Code: {{ club.Postal_Code }}</p>
-          <p>Address: {{ club.Address }}</p>
-
-          <p>Age: {{ club.Age }}</p>
-          <p>Category: {{ club.Category }}</p>
+          <p><img src="/static/images/membership-card.png"> <strong>Club Name:</strong> {{ club.club_name }}</p>
+          <p><img src="/static/images/zip-code.png"> <strong>Postal Code:</strong> {{ club.postal_code }}</p>
+          <p><img src="/static/images/location-pin.png"> <strong>Address:</strong> {{ club.address }}</p>
+          <p><img src="/static/images/age-group.png"> <strong>Age:</strong> {{ club.age }}</p>
+          <p><img src="/static/images/categories.png"> <strong>Category:</strong> {{ club.category }}</p>
+          <p><img src="/static/images/mobile.png"> <strong>Activity:</strong>{{ club.activity }}</p>
           <div class="action-btns">
-            <a href="{% url 'hobby_clubs:club' unique_identifier=club.unique_identifier %}" class="action-btn">View
-              Details</a>
-            <button class="action-btn">Like &#10084;</button>
-            <button class="action-btn">Write a Review</button>
+            <a href="{{ club.website }}" class="action-btn" target="_blank">View Details</a>
+
+            <button class="action-btn like-btn" data-club-name="{{ club.club_name }}">Like &#10084;</button>
+
+            <button class="review-btn" type="button" data-club-name="{{ club.club_name }}">Write a Review</button>
+
+
           </div>
-          <!-- 输出唯一标识符 -->
-          <p>Website: <a href="{{ club.Website }}" class="website-link" target="_blank">{{ club.Website }}</a></p>
         </div>
       </li>
       {% empty %}
@@ -120,6 +264,17 @@
       {% endfor %}
     </ul>
   </div>
+
+  <div id="reviewModal" class="modal" style="display: block;">
+    <div class="modal-content">
+      <span class="close" onclick="closeReviewModal()">&times;</span>
+      <h2>Write a Review</h2>
+      <textarea id="reviewTextarea" rows="6" cols="50"></textarea>
+      <button id="submitReviewBtn" onclick="submitReview('{{ clubName }}')">Submit</button>
+
+    </div>
+  </div>
+  <script src="{% static 'main.js' %}"></script>
 </body>
 
 </html>

@@ -49,25 +49,43 @@
     a:hover {
       text-decoration: underline;
     }
+
+    li img {
+      width: 30px;
+    }
+
+    .apologies {
+      font-size: 22px;
+      color: rgb(15, 15, 14);
+      text-align: center;
+
+    }
   </style>
 </head>
 
 <body>
   <h1>Exciting Discoveries Nearby</h1>
+
+  {% if matching_clubs %}
   <ul>
     {% for club in matching_clubs %}
     <li>
-      <strong>Club Name:</strong> {{ club.Club_Name }}<br>
-      <strong>Postal Code:</strong> {{ club.Postal_Code }}<br>
-      <strong>Address:</strong> {{ club.Address }}<br>
-      <strong>Age:</strong> {{ club.Age }}<br>
-      <strong>Category:</strong> {{ club.Category }}<br>
-      <strong>Activity:</strong> {{ club.Activity }}<br>
-      <strong>Website:</strong> <a href="{{ club.Website }}">{{ club.Website }}</a><br>
-
+      <img src="/static/images/membership-card.png"> <strong> Club Name: </strong>{{ club.Club_Name }}<br>
+      <img src="/static/images/zip-code.png"> <strong> Postal Code: </strong> {{ club.Postal_Code }}<br>
+      <img src="/static/images/location-pin.png"> <strong> Address:</strong>{{ club.Address }}<br>
+      <img src="/static/images/age-group.png"> <strong> Age:</strong> {{ club.Age }}<br>
+      <img src="/static/images/categories.png"><strong> Category:</strong> {{ club.Category }}<br>
+      <img src="/static/images/mobile.png"><strong> Activity:</strong> {{ club.Activity }}<br>
+      <img src="/static/images/boost.png"><strong> Website:</strong><a href="{{ club.Website }}"> {{ club.Website }}</a>
     </li>
     {% endfor %}
   </ul>
+  {% else %}
+  <p class="apologies">Apologies,</p>
+  <p class="apologies"> there are currently no clubs that match your criteria.
+  <p class="apologies"> Please try different search
+    criteria.</p>
+  {% endif %}
 </body>
 
 </html>

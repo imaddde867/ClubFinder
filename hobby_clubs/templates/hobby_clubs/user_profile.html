@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Profile</title>
+</head>
+
+<body>
+  <!-- User profile content -->
+  <div class="user-profile">
+    <h1>User Profile</h1>
+    <p>Hello, {{ user.username }}</p>
+    <p>Email: {{ user.email }}</p>
+    <p>Registration Date: {{ user.date_joined|date:"F j, Y" }}</p>
+
+    <!-- Display liked clubs -->
+    <h2>Liked Clubs:</h2>
+    <ul>
+      {% for liked_club in liked_clubs %}
+      <li><a href="{{ liked_club.club.website }}" class="club-link" target="_blank">{{ liked_club.club.club_name }}</a>
+      </li>
+      {% empty %}
+      <li>No clubs liked yet.</li>
+      {% endfor %}
+    </ul>
+
+    <!-- Display user reviews -->
+    <h2>User Reviews:</h2>
+    <ul id="userReviews">
+      <!-- Reviews will be added here dynamically using JavaScript -->
+    </ul>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var userReviewsList = document.getElementById('userReviews');
+      for (var i = 0; i < localStorage.length; i++) {
+        var key = localStorage.key(i);
+        if (key.startsWith("userReview_")) {
+          var clubName = key.substr(11); // Remove "userReview_" prefix
+          var reviewContent = localStorage.getItem(key);
+          console.log("Club: " + clubName + ", Review: " + reviewContent); // 添加调试语句
+          var listItem = document.createElement('li');
+          listItem.textContent = "Club: " + clubName + ", Review: " + reviewContent;
+          userReviewsList.appendChild(listItem);
+        }
+      }
+    });
+  </script>
+</body>
+
+</html>

@@ -60,7 +60,10 @@ ROOT_URLCONF = 'tkc_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates'],
+        'DIRS': [
+            BASE_DIR / 'hobby_clubs/templates',
+            # BASE_DIR / 'user_accounts/templates',
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

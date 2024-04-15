@@ -58,7 +58,7 @@
             color: #fff;
             border: none;
         }
-        .msg {
+        .msg1 {
             text-align: center;
             line-height: 88px;
         }
@@ -66,12 +66,20 @@
             text-decoration-line: none;
             color: #abc1ee;
         }
+        .msg2 {
+            text-align: center;
+            line-height: 30px;  
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="login-wrapper">
             <div class="header">Login</div>
+            {% if form.errors %}
+             
+              <p><div class="msg2">Your username or password didn't match. Please try again.</div></p>
+              {% endif %}
             <form action="{% url 'user_accounts:login' %}" method="post">
               {% csrf_token %}
             
@@ -81,7 +89,7 @@
                 <button type="submit" class="btn">Login</button>
               </div>
             </form>
-            <div class="msg">
+            <div class="msg1">
                 Don't have account?
                 <a href="{% url 'user_accounts:register' %}">Register here</a>
             </div>
