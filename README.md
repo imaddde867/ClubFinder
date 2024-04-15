@@ -1,5 +1,8 @@
 # Turku Kids Clubs Finder 🚀
 
+![image](https://github.com/imaddde867/ClubFinder/assets/63160938/6bda426c-34e5-40eb-ada7-5594dfd8605f)
+
+
 ## Overview
 
 Welcome to ClubFinder, your go-to platform for discovering exciting and tailored clubs for your kids. This application simplifies the process of finding the perfect club based on your child's preferences, hobbies, location, and budget.
